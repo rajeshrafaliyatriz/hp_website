@@ -12,3 +12,6 @@ const ImageComponent = ({ src, alt }) => {
 };
 
 export default ImageComponent;
+
+
+

@@ -15,3 +15,6 @@ function SolutionItem({ icon, text }) {
 }
 
 export default SolutionItem;
+
+
+

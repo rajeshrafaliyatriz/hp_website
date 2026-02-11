@@ -16,7 +16,11 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Scholar Clone",
+  metadataBase: new URL('https://demohpp.vercel.app'),
+  title: {
+    default: "Scholar Clone",
+    template: "%s | Scholar Clone"
+  },
   description: "Empowering Education with AI",
   icons: {
     icon: '/assets/Logo.png',
@@ -40,5 +44,8 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+
+
+
 
 

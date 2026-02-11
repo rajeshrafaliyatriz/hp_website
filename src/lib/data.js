@@ -21,7 +21,7 @@ export const FOOTER_LINKS = {
     k12: [
         { name: "Home", href: "/" },
         { name: "About Us", href: "/about" },
-        { name: "Products", href: "/erpservice" }, // Mapping to existing route
+        { name: "Products", href: "/products/learning-solutions" }, // Updated from /erpservice
         { name: "Services", href: "/services" },
         { name: "Resources & Blogs", href: "#" },
         { name: "Contact", href: "/contact" },
@@ -30,7 +30,7 @@ export const FOOTER_LINKS = {
     higherEd: [
         { name: "Home", href: "/" },
         { name: "About Us", href: "/about" },
-        { name: "Products", href: "/lmsservice" }, // Mapping to existing route
+        { name: "Products", href: "/products/learning-solutions/learning-management" }, // Updated from /lmsservice
         { name: "Services", href: "/services" },
         { name: "Resources & Blogs", href: "#" },
         { name: "Contact", href: "/contact" },
@@ -39,7 +39,7 @@ export const FOOTER_LINKS = {
     corporate: [
         { name: "Home", href: "/" },
         { name: "About Us", href: "/about" },
-        { name: "Products", href: "/commservice" }, // Mapping to existing route
+        { name: "Products", href: "/products/talent-solutions" }, // Updated from /commservice
         { name: "Services", href: "/services" },
         { name: "Resources & Blogs", href: "#" },
         { name: "Contact", href: "/contact" },
@@ -217,3 +217,6 @@ export const PRODUCTS_DROPDOWN_DATA = [
         ]
     }
 ];
+
+
+

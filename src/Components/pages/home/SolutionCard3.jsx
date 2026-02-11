@@ -66,3 +66,6 @@ export const SolutionCard3 = () => {
   );
 };
 export default SolutionCard3;
+
+
+

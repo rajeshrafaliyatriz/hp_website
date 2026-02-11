@@ -14,3 +14,6 @@ const ImageComponent = () => {
 };
 
 export default ImageComponent;
+
+
+

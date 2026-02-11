@@ -93,3 +93,6 @@ const PricingCard = ({ title, price, recommended, bestValue, buttonColor, border
 };
 
 export default PricingCard;
+
+
+

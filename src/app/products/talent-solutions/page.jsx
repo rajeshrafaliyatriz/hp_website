@@ -1,8 +1,11 @@
 import TalentContent from "./TalentContent";
 
 export const metadata = {
-    title: "Talent Solutions | Scholar Clone",
+    title: "Talent Solutions",
     description: "Empower your workforce with end-to-end talent management, AI-driven recruitment, and skill validation.",
+    alternates: {
+        canonical: '/products/talent-solutions',
+    },
 };
 
 const TalentSolutionsPage = () => {
@@ -10,3 +13,6 @@ const TalentSolutionsPage = () => {
 };
 
 export default TalentSolutionsPage;
+
+
+

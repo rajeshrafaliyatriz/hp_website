@@ -25,3 +25,6 @@ function ChallengeCard({ title, image, fullWidth = false }) {
 }
 
 export default ChallengeCard;
+
+
+

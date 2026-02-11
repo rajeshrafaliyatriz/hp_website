@@ -1,5 +1,11 @@
 import React from 'react';
 import Client from '@/Components/pages/home/ClientSection';
+
+export const metadata = {
+    alternates: {
+        canonical: '/',
+    },
+};
 import Scroll from '@/Components/layout/scroll-to-top/ScrollToTop';
 import ElevateWorkforce from '@/Components/pages/home/ElevateWorkforce';
 import Image from '@/Components/pages/home/Image';
@@ -27,4 +33,7 @@ function Home() {
 }
 
 export default Home;
+
+
+
 

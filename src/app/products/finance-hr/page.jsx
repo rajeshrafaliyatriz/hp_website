@@ -1,8 +1,11 @@
 import FinanceContent from "./FinanceContent";
 
 export const metadata = {
-    title: "Finance & HR Solutions | Scholar Clone",
+    title: "Finance & HR Solutions",
     description: "Streamline financial and HR operations with automated payroll, leave management, and compliance tools.",
+    alternates: {
+        canonical: '/products/finance-hr',
+    },
 };
 
 const FinanceHrPage = () => {
@@ -10,3 +13,6 @@ const FinanceHrPage = () => {
 };
 
 export default FinanceHrPage;
+
+
+

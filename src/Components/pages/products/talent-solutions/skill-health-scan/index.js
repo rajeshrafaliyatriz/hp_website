@@ -8,7 +8,7 @@ import Benefits from "./Benefits";
 import FirstComponent from "./FirstComponent";
 import ThirdComponent from "./ThirdComponent";
 
-export default function SkillManagementPage() {
+export default function SkillHealthScanPage() {
   return (
     <div className="flex flex-col w-full max-w-[1920px] mx-auto overflow-x-hidden bg-white">
       <HeroSection />
@@ -19,4 +19,7 @@ export default function SkillManagementPage() {
     </div>
   );
 }
+
+
+
 

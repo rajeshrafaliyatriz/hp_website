@@ -14,3 +14,6 @@ function OfferingColumn({ imageSrc, title }) {
 }
 
 export default OfferingColumn;
+
+
+

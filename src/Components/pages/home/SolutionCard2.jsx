@@ -80,3 +80,6 @@ export const SolutionCard2 = () => {
   );
 };
 export default SolutionCard2;
+
+
+

@@ -36,3 +36,6 @@ export default function TestimonialCardNew({ quote, author, authorImage, company
     </div>
   );
 }
+
+
+

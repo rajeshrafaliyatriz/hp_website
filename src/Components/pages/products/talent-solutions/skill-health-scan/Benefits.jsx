@@ -44,7 +44,7 @@ export default function Index() {
             <div className="order-1 lg:order-2 text-white text-center lg:text-left">
               {/* Main Heading */}
               <h1 className="font-prompt text-2xl sm:text-3xl md:text-4xl lg:text-[42px] xl:text-[50px] font-normal leading-[1.1] mb-8 md:mb-10 lg:mb-12 max-w-[690px]">
-                Who Is It For? 
+                Who Is It For?
               </h1>
 
               {/* Benefits Container */}
@@ -54,28 +54,28 @@ export default function Index() {
                   {/* Top Left */}
                   <div className="text-center flex items-center justify-center min-h-[72px] md:min-h-[95px]">
                     <h3 className="font-prompt text-lg md:text-xl lg:text-2xl font-normal leading-tight max-w-[295px]">
-                       Educational Institutions
+                      HR Leaders & Executives
                     </h3>
                   </div>
 
                   {/* Top Right */}
                   <div className="text-center flex items-center justify-center min-h-[72px] md:min-h-[95px]">
                     <h3 className="font-prompt text-lg md:text-xl lg:text-2xl font-normal leading-tight max-w-[263px]">
-                       Corporates & Startups
+                      L&D Managers
                     </h3>
                   </div>
 
                   {/* Bottom Left */}
                   <div className="text-center flex items-center justify-center min-h-[108px] md:min-h-[120px]">
                     <h3 className="font-prompt text-lg md:text-xl lg:text-2xl font-normal leading-tight max-w-[328px]">
-                      Recruitment Agencies 
+                      Department Heads
                     </h3>
                   </div>
 
                   {/* Bottom Right */}
                   <div className="text-center flex items-center justify-center min-h-[72px] md:min-h-[95px]">
                     <h3 className="font-prompt text-lg md:text-xl lg:text-2xl font-normal leading-tight max-w-[280px]">
-                      Skill-based hiring initiatives
+                      Workforce Planners
                     </h3>
                   </div>
                 </div>
@@ -117,17 +117,17 @@ export default function Index() {
           <div className="w-full max-w-[1400px] h-[314px] flex flex-col justify-center items-center">
             <div className="w-full max-w-[1400px] mb-[113px]">
               <h2 className="font-prompt text-[24px] md:text-[30px] lg:text-[36px] font-bold text-black leading-normal mb-4">
-                 Real-World Impact 
+                Real-World Impact
               </h2>
               <p className="font-prompt text-[18px] md:text-[21px] lg:text-[24px] font-normal text-black leading-normal mb-4">
-                 Cut time-to-hire in half. Improve quality-of-hire metrics. Reduce cost per hire. Boost recruiter productivity with automation. 
+                Proactively close skill gaps. Retain top talent by investing in their growth. Make data-backed decisions on hiring vs upskilling.
               </p>
               <h3 className="font-prompt text-[18px] md:text-[21px] lg:text-[24px] font-bold text-black">
-               Ready to Hire Smarter?
+                Ready to Optimize Your Workforce?
               </h3>
             </div>
             <button className="inline-flex items-center justify-center gap-3 px-4 bg-[#014D68] border border-[#2463EB] rounded-xl text-white font-sans text-[14px] font-bold leading-7 hover:bg-opacity-90 transition-all duration-200 w-[182px] h-11 shrink-0">
-              Book a Free Demo
+              Get Your Skill Scan
             </button>
           </div>
         </div>
@@ -135,3 +135,6 @@ export default function Index() {
     </div>
   );
 }
+
+
+

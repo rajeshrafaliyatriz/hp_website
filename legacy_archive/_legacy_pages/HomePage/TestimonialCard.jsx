@@ -27,3 +27,6 @@ export default function TestimonialCard({ name, school, testimonial }) {
     </div>
   );
 }
+
+
+

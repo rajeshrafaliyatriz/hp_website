@@ -12,3 +12,6 @@ const FeatureItem = ({ icon, label }) => {
 };
 
 export default FeatureItem;
+
+
+

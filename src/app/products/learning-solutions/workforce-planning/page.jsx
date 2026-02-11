@@ -1,9 +1,12 @@
 import ProductComponent from '@/Components/pages/products/learning-solutions/workforce-planning';
 
 export const metadata = {
-  title: "Workforce Planning | Learning Solutions | Scholar Clone",
+  title: "Workforce Planning | Learning Solutions",
   description: "Align your workforce with business goals using Scholar Clone's strategic Workforce Planning tools.",
   keywords: ["Workforce Planning", "HR Strategy", "Talent Alignment", "Scholar Clone"],
+  alternates: {
+    canonical: '/products/learning-solutions/workforce-planning',
+  },
   openGraph: {
     title: "Workforce Planning | Learning Solutions | Scholar Clone",
     description: "Align your workforce with business goals using Scholar Clone's strategic Workforce Planning tools.",
@@ -13,3 +16,6 @@ export const metadata = {
 export default function Page() {
   return <ProductComponent />;
 }
+
+
+

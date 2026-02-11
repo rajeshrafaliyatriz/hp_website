@@ -54,9 +54,9 @@ export function ModernCTA() {
                                 Get Started Now <ArrowRight className="w-5 h-5" />
                             </button>
                         </Link>
-                        <Link href="/pricing" className="w-full sm:w-auto">
+                        <Link href="/contact" className="w-full sm:w-auto">
                             <button suppressHydrationWarning className="w-full sm:w-auto px-8 py-4 sm:px-10 sm:py-5 bg-white text-[#2A3E5C] font-bold text-base sm:text-lg rounded-full border-2 border-[#2A3E5C]/10 hover:border-[#2A3E5C] transition-all hover:bg-blue-50">
-                                View Pricing
+                                Contact Sales
                             </button>
                         </Link>
                     </motion.div>

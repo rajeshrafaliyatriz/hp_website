@@ -4,8 +4,8 @@ import Header from '../Header_C/NavBar';
 import MainContent from './MainContent';
 import Client from './ClientSection';
 import Contact from '../Contact/ContactCard';
-import Scroll from '@/components/layout/scroll-to-top/ScrollToTop';
-import Footer from '@/components/layout/footer/Footer';
+import Scroll from '@/Components/layout/scroll-to-top/ScrollToTop';
+import Footer from '@/Components/layout/footer/Footer';
 import TestimonialSection from './TestimonialSection';
 import BlogSection from './BlogCardsSection';
 function UnlockPotential() {
@@ -33,3 +33,6 @@ function UnlockPotential() {
 }
 
 export default UnlockPotential;
+
+
+

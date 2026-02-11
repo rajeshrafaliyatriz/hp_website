@@ -37,3 +37,6 @@ export default function ScrollAnimationWrapper({ children, effect = "fadeUp", de
     </motion.div>
   );
 }
+
+
+

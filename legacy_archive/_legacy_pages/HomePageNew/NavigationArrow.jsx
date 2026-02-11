@@ -19,3 +19,6 @@ function NavigationArrow({ direction, src, onClick }) {
 }
 
 export default NavigationArrow;
+
+
+

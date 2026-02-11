@@ -73,3 +73,6 @@ const SolutionCard1 = () => {
 };
 
 export default SolutionCard1;
+
+
+

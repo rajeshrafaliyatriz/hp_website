@@ -1,9 +1,12 @@
 import ProductComponent from '@/Components/pages/products/talent-solutions/skill-genome-builder';
 
 export const metadata = {
-  title: "Skill Genome Builder | Talent Solutions | Scholar Clone",
+  title: "Skill Genome Builder | Talent Solutions",
   description: "Construct a comprehensive skill framework for your organization with Scholar Clone's Skill Genome Builder.",
   keywords: ["Skill Genome", "Skill Framework", "Competency Mapping", "Scholar Clone"],
+  alternates: {
+    canonical: '/products/talent-solutions/skill-genome-builder',
+  },
   openGraph: {
     title: "Skill Genome Builder | Talent Solutions | Scholar Clone",
     description: "Construct a comprehensive skill framework for your organization with Scholar Clone's Skill Genome Builder.",
@@ -13,3 +16,6 @@ export const metadata = {
 export default function Page() {
   return <ProductComponent />;
 }
+
+
+

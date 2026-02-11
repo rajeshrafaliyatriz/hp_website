@@ -12,3 +12,6 @@ function GalleryImage({ src, className, aspectRatio, alt }) {
 }
 
 export default GalleryImage;
+
+
+

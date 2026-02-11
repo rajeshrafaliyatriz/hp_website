@@ -1,9 +1,12 @@
 import ProductComponent from '@/Components/pages/products/finance-hr/time-attendance';
 
 export const metadata = {
-  title: "Time & Attendance | Finance & HR Solutions | Scholar Clone",
+  title: "Time & Attendance | Finance & HR Solutions",
   description: "Automate time tracking and attendance management with Scholar Clone's advanced HR solutions.",
   keywords: ["Time Attendance", "HR Solutions", "Scholar Clone", "Workforce Management"],
+  alternates: {
+    canonical: '/products/finance-hr/time-attendance',
+  },
   openGraph: {
     title: "Time & Attendance | Finance & HR Solutions | Scholar Clone",
     description: "Automate time tracking and attendance management with Scholar Clone's advanced HR solutions.",
@@ -13,3 +16,6 @@ export const metadata = {
 export default function Page() {
   return <ProductComponent />;
 }
+
+
+

@@ -14,3 +14,6 @@ function IntegrationCard({ title, buttonText }) {
 }
 
 export default IntegrationCard;
+
+
+

@@ -217,3 +217,6 @@ const ProductPageTemplate = ({
 };
 
 export default ProductPageTemplate;
+
+
+

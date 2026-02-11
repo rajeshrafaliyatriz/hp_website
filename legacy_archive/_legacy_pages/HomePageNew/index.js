@@ -1,15 +1,15 @@
 import React from 'react';
-import Header from '@/components/layout/navbar/Navbar';
+import Header from '@/Components/layout/navbar/Navbar';
 import Client from './ClientSection';
-import Scroll from '@/components/layout/scroll-to-top/ScrollToTop';
-import Footer from '@/components/layout/footer/Footer';
+import Scroll from '@/Components/layout/scroll-to-top/ScrollToTop';
+import Footer from '@/Components/layout/footer/Footer';
 import ElevateWorkforce from '../ElevateWorkforce/ElevateWorkforce';
 import Image from '../ImageComponent/Image';
 import ExpertiseSolutions from '../ExpertiseSolutions/ExpertiseSolutions';
 import BenefitsSection from '../BenefitsSection/BenefitsSection';
 import TestimonialSection from '../testimonials/TestimonialSection';
 import LandingSection from './LandingSection';
-import ScrollAnimationWrapper from '@/components/ui/animations/ScrollAnimationWrapper';
+import ScrollAnimationWrapper from '@/Components/ui/animations/ScrollAnimationWrapper';
 
 function Home() {
   return (
@@ -33,3 +33,6 @@ function Home() {
 }
 
 export default Home;
+
+
+

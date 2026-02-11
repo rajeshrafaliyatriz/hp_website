@@ -2,8 +2,8 @@ import React from 'react';
 import ContactInfo from './ContactInfo';
 import FormInput from './FormInput';
 import FormTextArea from './FormTextArea';
-import Header from '@/components/layout/navbar/Navbar';
-import Footer from '@/components/layout/footer/Footer';
+import Header from '@/Components/layout/navbar/Navbar';
+import Footer from '@/Components/layout/footer/Footer';
 import Head from 'next/head';
 import ContactCard from '../../ContactForm/ContactForm';
 function ContactForm() {
@@ -72,3 +72,6 @@ function ContactForm() {
 }
 
 export default ContactForm;
+
+
+

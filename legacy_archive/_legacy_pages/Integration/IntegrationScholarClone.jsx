@@ -3,8 +3,8 @@ import Services from './Services';
 import ScrollToTop from './ScrollToTop';
 import Contact from '../Contact/ContactCard';
 import IG from './IntegrationServices';
-import Header from '@/components/layout/navbar/Navbar';
-import Footer from '@/components/layout/footer/Footer';
+import Header from '@/Components/layout/navbar/Navbar';
+import Footer from '@/Components/layout/footer/Footer';
 
 function IntegrationScholarClone() {
   return (
@@ -74,3 +74,6 @@ function IntegrationScholarClone() {
 }
 
 export default IntegrationScholarClone;
+
+
+

@@ -1,9 +1,12 @@
 import ProductComponent from '@/Components/pages/products/integration/system-integration';
 
 export const metadata = {
-  title: "System Integration | Integration Solutions | Scholar Clone",
+  title: "System Integration | Integration Solutions",
   description: "Seamlessly integrate your existing systems with Scholar Clone for a unified workflow.",
   keywords: ["System Integration", "API Integration", "Data Sync", "Scholar Clone"],
+  alternates: {
+    canonical: '/products/integration/system-integration',
+  },
   openGraph: {
     title: "System Integration | Integration Solutions | Scholar Clone",
     description: "Seamlessly integrate your existing systems with Scholar Clone for a unified workflow.",
@@ -13,3 +16,6 @@ export const metadata = {
 export default function Page() {
   return <ProductComponent />;
 }
+
+
+

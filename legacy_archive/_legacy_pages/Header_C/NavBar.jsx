@@ -3,7 +3,7 @@ import NavItem from './NavItem';
 import Link from 'next/link'; 
 import './header.css';
 import { useRouter } from 'next/router';
-import NV1 from '@/components/layout/navbar/Navbar_new';
+import NV1 from '@/Components/layout/navbar/Navbar_new';
 import MyComponent from './MyComponent';
 
 const navItems = [
@@ -148,3 +148,6 @@ export default NavBar;
                       ))}
                     </ul>
                   </div> */}
+
+
+

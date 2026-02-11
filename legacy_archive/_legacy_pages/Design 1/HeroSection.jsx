@@ -40,3 +40,6 @@ export default function Index() {
     </div><div className="w-full h-10 bg-[#014D68]"></div></>
   );
 }
+
+
+

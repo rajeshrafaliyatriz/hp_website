@@ -33,3 +33,6 @@ const PricingFeature = ({ icon, text, description, featureTextColor ,description
 };
 
 export default PricingFeature;
+
+
+

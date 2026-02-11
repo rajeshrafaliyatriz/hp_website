@@ -55,3 +55,6 @@ const JobPosting = ({ className = "" }) => {
 };
 
 export default JobPosting;
+
+
+

@@ -8,10 +8,10 @@ export default function Index() {
         <div className="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
           {/* Section Title */}
           <h2 className="font-prompt font-bold text-4xl lg:text-5xl text-payroll-teal text-center mb-20">
-            Key Features
+            Why Scan Your Organization?
           </h2>
 
-          {/* Feature 1: Automated Payroll & Compliance */}
+          {/* Feature 1 */}
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center mb-24">
             {/* Image Container */}
             <div className="relative">
@@ -32,60 +32,59 @@ export default function Index() {
 
             {/* Content */}
             <div className="space-y-12">
-              {/* Automated Payroll Processing */}
+              {/* Feature 1.1 */}
               <div>
                 <h3 className="font-prompt font-medium text-3xl lg:text-3xl text-black mb-4">
-                  AI-powered resume screening 
+                  Visual Skill Heatmaps
                 </h3>
                 <p className="font-prompt text-lg lg:text-lg text-black leading-relaxed">
-                  Saves 80% time in initial candidate shortlisting 
+                  Instantly visualize skill distribution across departments and teams.
                 </p>
               </div>
 
-              {/* Compliance & Taxation Management */}
+              {/* Feature 1.2 */}
               <div>
                 <h3 className="font-prompt font-medium text-3xl lg:text-3xl text-black mb-4">
-                   Skills-first hiring framework
+                  Identify Critical Risks
                 </h3>
                 <p className="font-prompt text-lg lg:text-lg text-black leading-relaxed">
-                 Ensures job-readiness, not just paper credentials 
+                  Spot single points of failure and key person dependencies before they become issues.
                 </p>
               </div>
             </div>
           </div>
 
-          {/* Feature 2: Customizable & Self-Service */}
+          {/* Feature 2 */}
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
             {/* Content - Left Side */}
             <div className="space-y-12 lg:order-1">
-              {/* Customizable Salary Structures */}
+              {/* Feature 2.1 */}
               <div>
                 <h3 className="font-prompt font-medium text-3xl lg:text-3xl text-black mb-4">
-                 Built-in assessment library
+                  Future-Readiness Index
                 </h3>
                 <p className="font-prompt text-lg lg:text-lg text-black leading-relaxed">
-                 Evaluate candidates with preloaded tests 
+                  Measure how prepared your workforce is for emerging technologies and market shifts.
                 </p>
               </div>
 
-              {/* Employee Self-Service */}
+              {/* Feature 2.2 */}
               <div>
                 <h3 className="font-prompt font-medium text-3xl lg:text-3xl text-black mb-4">
-                   Video interviewing tools
+                  Upskilling Recommendations
                 </h3>
                 <p className="font-prompt text-lg lg:text-lg text-black leading-relaxed">
-                 Reduce bias, increase speed 
-
+                  Get automated suggestions for training programs based on identified gaps.
                 </p>
               </div>
 
-              {/* Seamless Integration */}
+              {/* Feature 2.3 */}
               <div>
                 <h3 className="font-prompt font-medium text-3xl lg:text-3xl text-black mb-4">
-                 Deep integration with ERP & LMS 
+                  Strategic Alignment
                 </h3>
                 <p className="font-prompt text-lg lg:text-lg text-black leading-relaxed">
-                Aligns hiring with internal skill needs  
+                  Ensure your talent strategy matches your long-term business goals.
                 </p>
               </div>
             </div>
@@ -109,3 +108,6 @@ export default function Index() {
     </div>
   );
 }
+
+
+

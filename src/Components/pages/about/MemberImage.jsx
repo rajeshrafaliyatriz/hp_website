@@ -32,3 +32,6 @@ function MemberImage({ src, alt, text }) {
 }
 
 export default MemberImage;
+
+
+

@@ -21,3 +21,6 @@ const BlogCard = ({ imageSrc, title, imageClassName }) => {
 };
 
 export default BlogCard;
+
+
+

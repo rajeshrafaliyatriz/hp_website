@@ -7,12 +7,12 @@ export default function Index() {
           <div className="max-w-xl">
             {/* Heading */}
             <h1 className="leading-relaxed font-prompt font-bold text-4xl sm:text-4xl lg:text-[50px] text-[#0B2131] mb-8">
-             Find Perfect Matches, Not Just Resumes 
+              Diagnose Your Organization&apos;s Skill Health
             </h1>
 
             {/* Paragraph */}
             <p className="font-prompt text-base sm:text-sm lg:text-xl text-[#0B2131] leading-relaxed mb-8">
-              Make hiring intelligent. With the Smart Hiring Engine, go beyond traditional CV screening and hire for skills, not just degrees. Powered by AI candidate matching, skills-based assessments, and video interview tools, we help you zero in on top talent—quickly and accurately. 
+              Know where you stand. The Skill Health Scan provides a deep-dive analysis of your workforce capabilities, identifying critical gaps and risk areas. Get actionable data to build a resilient, future-ready team.
             </p>
 
             {/* Divider */}
@@ -20,7 +20,7 @@ export default function Index() {
 
             {/* CTA Button */}
             <button className="px-6 py-3 mb-2 bg-[#014D68] text-white text-base font-semibold rounded-xl hover:bg-opacity-90 transition duration-200">
-               Smarter hiring starts here.
+              Start your scan today.
             </button>
           </div>
         </div>
@@ -29,10 +29,13 @@ export default function Index() {
         <div className="lg:w-full lg:w-1/2 flex justify-center items-left bg-[#D6FAF7]  rounded-lg">
           <img
             src="/Detailes page/image 15.jpg"
-            alt="Man with laptop smiling"
+            alt="Data analysis dashboard"
             className=" lg:w-[400px] h-auto object-contain" />
         </div>
       </div>
     </div><div className="w-full h-10 bg-[#014D68]"></div></>
   );
 }
+
+
+

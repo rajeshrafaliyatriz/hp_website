@@ -14,3 +14,6 @@ function ValueColumn({ imageSrc, title }) {
 }
 
 export default ValueColumn;
+
+
+

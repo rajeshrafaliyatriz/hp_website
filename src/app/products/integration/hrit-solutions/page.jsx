@@ -1,9 +1,12 @@
 import ProductComponent from '@/Components/pages/products/integration/hrit-solutions';
 
 export const metadata = {
-  title: "HRIT Solutions | Integration Solutions | Scholar Clone",
+  title: "HRIT Solutions | Integration Solutions",
   description: "Optimize your HR IT infrastructure with Scholar Clone's specialized HRIT solutions.",
   keywords: ["HRIT Solutions", "HR Technology", "IT Infrastructure", "Scholar Clone"],
+  alternates: {
+    canonical: '/products/integration/hrit-solutions',
+  },
   openGraph: {
     title: "HRIT Solutions | Integration Solutions | Scholar Clone",
     description: "Optimize your HR IT infrastructure with Scholar Clone's specialized HRIT solutions.",
@@ -13,3 +16,6 @@ export const metadata = {
 export default function Page() {
   return <ProductComponent />;
 }
+
+
+

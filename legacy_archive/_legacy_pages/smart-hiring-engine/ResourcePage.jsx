@@ -1,9 +1,9 @@
 import React from "react";
 import ResourceButton from "./ResourceButton";
 import Contact from "../Contact/ContactCard";
-import Scroll from "@/components/layout/scroll-to-top/ScrollToTop";
-import Header from "@/components/layout/navbar/Navbar";
-import Footer from "@/components/layout/footer/Footer";
+import Scroll from "@/Components/layout/scroll-to-top/ScrollToTop";
+import Header from "@/Components/layout/navbar/Navbar";
+import Footer from "@/Components/layout/footer/Footer";
 const resourceTypes = [
   "Blogs/Vlogs",
   "Webinar",
@@ -49,3 +49,6 @@ function ResourcePage() {
 }
 
 export default ResourcePage;
+
+
+

@@ -1,9 +1,12 @@
 import ProductComponent from '@/Components/pages/products/finance-hr/petty-cash-expense-management';
 
 export const metadata = {
-  title: "Petty Cash & Expense Management | Finance & HR Solutions | Scholar Clone",
+  title: "Petty Cash & Expense Management | Finance & HR Solutions",
   description: "Track petty cash and manage business expenses efficiently with Scholar Clone's financial tools.",
   keywords: ["Petty Cash", "Expense Management", "Financial Tools", "Scholar Clone"],
+  alternates: {
+    canonical: '/products/finance-hr/petty-cash-expense-management',
+  },
   openGraph: {
     title: "Petty Cash & Expense Management | Finance & HR Solutions | Scholar Clone",
     description: "Track petty cash and manage business expenses efficiently with Scholar Clone's financial tools.",
@@ -13,3 +16,6 @@ export const metadata = {
 export default function Page() {
   return <ProductComponent />;
 }
+
+
+

@@ -30,3 +30,6 @@ const PricingPlan = ({ price, title, description, features, buttonColor = "bg-em
     </div>
   );
 export default PricingPlan;
+
+
+

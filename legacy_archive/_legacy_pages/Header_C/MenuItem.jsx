@@ -10,3 +10,6 @@ const MenuItem = ({ icon, label }) => (
 );
 
 export default MenuItem;
+
+
+

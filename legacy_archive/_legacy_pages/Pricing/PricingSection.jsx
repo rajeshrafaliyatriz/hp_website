@@ -1,5 +1,5 @@
-import Header from "@/components/layout/navbar/Navbar";
-import Footer from "@/components/layout/footer/Footer";
+import Header from "@/Components/layout/navbar/Navbar";
+import Footer from "@/Components/layout/footer/Footer";
 import * as React from "react";
 import PricingCard from "./PricingCard";
 
@@ -772,3 +772,6 @@ function PricingSection() {
 }
 
 export default PricingSection;
+
+
+

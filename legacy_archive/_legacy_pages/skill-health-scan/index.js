@@ -1,10 +1,10 @@
 
 import React from "react";
-import Header from "@/components/layout/navbar/Navbar";
-import Footer from "@/components/layout/footer/Footer";
-import Client from '@/components/pages/home/ClientSection';
-import LandingSection from "@/components/pages/home/LandingSection";
-import ScrollToTop from "@/components/layout/scroll-to-top/ScrollToTop";
+import Header from "@/Components/layout/navbar/Navbar";
+import Footer from "@/Components/layout/footer/Footer";
+import Client from '@/Components/pages/home/ClientSection';
+import LandingSection from "@/Components/pages/home/LandingSection";
+import ScrollToTop from "@/Components/layout/scroll-to-top/ScrollToTop";
 import HeroSection from "./HeroSection";
 import Benefits from "./Benefits";
 import FirstComponent from "./FirstComponent";
@@ -23,3 +23,6 @@ export default function SkillManagementPage() {
     </div>
   );
 }
+
+
+

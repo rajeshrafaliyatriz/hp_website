@@ -31,3 +31,6 @@ const FadeInSection = ({ children, delay = 0.1 }) => {
 };
 
 export default FadeInSection;
+
+
+

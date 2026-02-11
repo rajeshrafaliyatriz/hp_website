@@ -25,3 +25,6 @@ function FooterColumn({ title, items = [], itemRoutes = [] }) {
 }
 
 export default FooterColumn;
+
+
+
