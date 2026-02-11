@@ -92,8 +92,8 @@ export default function VehicleTrackingSystem() {
                         </div>
                     </div>
 
-                    {/* Right Column: Image */}
-                    <div className="w-full lg:w-[45%]">
+                    {/* Right Column:   Image */}
+                    <div className="w- full lg:w-[45%]">
                         {/* eslint-disable-next-line @next/next/no-img-element */}
                         <img
                             src="/assets/VTS_Services.png"
