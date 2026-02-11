@@ -1,3 +1,4 @@
+'use client';
 
 import React from 'react';
 import { SEO_CONTENT } from '@/lib/seo-content';
