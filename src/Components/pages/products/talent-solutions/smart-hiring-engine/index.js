@@ -7,6 +7,7 @@ import HeroSection from "./HeroSection";
 import Benefits from "./Benefits";
 import FirstComponent from "./FirstComponent";
 import ThirdComponent from "./ThirdComponent";
+import ProductSEOContent from "@/Components/shared/ProductSEOContent";
 
 export default function SmartHiringEnginePage() {
   return (
@@ -15,6 +16,7 @@ export default function SmartHiringEnginePage() {
       <FirstComponent />
       <ThirdComponent />
       <Benefits />
+      <ProductSEOContent pageId="smart-hiring-engine" />
       <ScrollToTop />
     </div>
   );

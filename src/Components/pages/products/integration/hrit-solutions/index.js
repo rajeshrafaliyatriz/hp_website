@@ -7,8 +7,9 @@ import LandingSection from "@/Components/pages/home/LandingSection";
 import ScrollToTop from "@/Components/layout/scroll-to-top/ScrollToTop";
 import HeroSection from "./HeroSection";;
 import Benefits from "@/Components/pages/products/talent-solutions/skill-management/Benefits";
+import ProductSEOContent from "@/Components/shared/ProductSEOContent";
 
-export default function SkillManagementPage() {
+export default function HRITSolutionsPage() {
   return (
     <div className="flex flex-col w-full max-w-[1920px] mx-auto overflow-x-hidden bg-white">
       <HeroSection />
@@ -16,6 +17,7 @@ export default function SkillManagementPage() {
       <Benefits />
       <Client />
       <LandingSection />
+      <ProductSEOContent pageId="hrit-solutions" />
       <ScrollToTop />
     </div>
   );

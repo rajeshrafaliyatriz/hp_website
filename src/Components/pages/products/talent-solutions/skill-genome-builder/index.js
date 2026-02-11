@@ -7,14 +7,16 @@ import HeroSection from "./HeroSection";
 import Benefits from "./Benefits";
 import FirstComponent from "./FirstComponent";
 import ThirdComponent from "./ThirdComponent";
+import ProductSEOContent from "@/Components/shared/ProductSEOContent";
 
-export default function SkillManagementPage() {
+export default function SkillGenomeBuilderPage() {
   return (
     <div className="flex flex-col w-full max-w-[1920px] mx-auto overflow-x-hidden bg-white">
       <HeroSection />
       <FirstComponent />
       <ThirdComponent />
       <Benefits />
+      <ProductSEOContent pageId="skill-genome-builder" />
       <ScrollToTop />
     </div>
   );

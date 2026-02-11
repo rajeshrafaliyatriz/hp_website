@@ -4,6 +4,7 @@ import SecondSection from "./SecondSection";
 import CourseSection from "./CourseSection";
 import TrainingSection from "./TrainingSection";
 import ScrollToTop from "@/Components/layout/scroll-to-top/ScrollToTop";
+import ProductSEOContent from "@/Components/shared/ProductSEOContent";
 
 export default function SkillRepository() {
   return (
@@ -12,6 +13,7 @@ export default function SkillRepository() {
       <SecondSection />
       <CourseSection />
       <TrainingSection />
+      <ProductSEOContent pageId="mobile-learning" />
       <ScrollToTop />
     </div>
   );

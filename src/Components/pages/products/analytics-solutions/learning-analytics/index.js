@@ -4,6 +4,7 @@ import HeroSection from "./HeroSection";
 // import Second from "./Second";
 // import ThirdSection from "./ThirdSection";
 import ScrollToTop from "@/Components/layout/scroll-to-top/ScrollToTop";
+import ProductSEOContent from "@/Components/shared/ProductSEOContent";
 // import BenefitsSection from "./BenefitsSection";
 
 export default function SkillRepository() {
@@ -13,6 +14,7 @@ export default function SkillRepository() {
       {/* <BenefitsSection /> */}
       {/* <Second /> */}
       {/* <ThirdSection /> */}
+      <ProductSEOContent pageId="learning-analytics" />
       <ScrollToTop />
     </div>
   );

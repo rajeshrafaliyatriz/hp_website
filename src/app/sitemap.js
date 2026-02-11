@@ -1,7 +1,7 @@
 import { PRODUCTS_DROPDOWN_DATA } from '@/lib/data';
 
 export default async function sitemap() {
-    const baseUrl = 'https://demohpp.vercel.app';
+    const baseUrl = 'https://hp.scholarclone.com';
 
     // Static routes
     const staticRoutes = [

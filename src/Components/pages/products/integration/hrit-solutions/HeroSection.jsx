@@ -6,28 +6,27 @@ export default function Index() {
           {/* Left Content */}
           <div className="space-y-9 lg:space-y-14">
             {/* Main Heading */}
-            <div className="self-stretch lg:text-4xl sm:text-3xl font-bold leading-tight max-md:text-3xl">
+            <h1 className="self-stretch lg:text-4xl sm:text-3xl font-bold leading-tight max-md:text-3xl">
               <span>Transforming HR with Streamlined,  </span>
               <span className="text-teal-500">Automated </span>
               <span>Processes for </span>
               <span>Organizational </span>
               <span className="text-teal-500">Excellence</span>
-              
-            </div>
+            </h1>
 
             {/* Sub-heading */}
             <p className="text-brand-light-gray mt-6 lg:text-xl sm:text-lg font-medium leading-8 text-black lg:w-[90%] max-md:w-full">
-              Spark growth by integrating seamless onboarding processes, 
-              leveraging actionable talent insights, and implementing 
-              forward-thinking strategies to prepare your organization 
+              Spark growth by integrating seamless onboarding processes,
+              leveraging actionable talent insights, and implementing
+              forward-thinking strategies to prepare your organization
               for tomorrow&apos;s challenges.
             </p>
 
             {/* CTA Button */}
-          
-              <div className="inline-block px-6 py-2 mt-6  text-base font-bold text-black border border-gray-300 rounded-md border-[2px]">
-                Explore Services
-              </div>
+
+            <div className="inline-block px-6 py-2 mt-6  text-base font-bold text-black border border-gray-300 rounded-md border-[2px]">
+              Explore Services
+            </div>
           </div>
 
           {/* Right Images */}

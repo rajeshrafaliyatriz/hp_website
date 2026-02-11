@@ -5,6 +5,6 @@ export default function robots() {
             allow: '/',
             disallow: ['/private/', '/admin/', '/api/'],
         },
-        sitemap: 'https://demohpp.vercel.app/sitemap.xml',
+        sitemap: 'https://hp.scholarclone.com/sitemap.xml',
     };
 }

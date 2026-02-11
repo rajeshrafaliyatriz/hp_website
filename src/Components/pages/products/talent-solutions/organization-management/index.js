@@ -6,9 +6,10 @@ import HeroSection from "./HeroSection";
 import Careercarft from "./Careercarft";
 import SkillMapping from "./SkillMapping";
 import Benefits from "./Benefits";
+import ProductSEOContent from "@/Components/shared/ProductSEOContent";
 
 
-export default function SkillManagementPage() {
+export default function OrganizationManagementPage() {
   return (
     <div className="flex flex-col w-full max-w-[1920px] mx-auto overflow-x-hidden bg-white">
       <HeroSection />
@@ -16,7 +17,8 @@ export default function SkillManagementPage() {
       <SkillMapping />
       <Benefits />
       <Client />
-      <LandingSection  />
+      <LandingSection />
+      <ProductSEOContent pageId="organization-management" />
       <ScrollToTop />
     </div>
   );

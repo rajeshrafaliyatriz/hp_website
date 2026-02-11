@@ -7,8 +7,9 @@ import HeroSection from "./HeroSection";
 import MyComponent from "./MyComponent";
 import SecondComponent from "./SecondComponent";
 import Benefits from "./Benefits";
+import ProductSEOContent from "@/Components/shared/ProductSEOContent";
 
-export default function SkillManagementPage() {
+export default function SkillManagementProductPage() {
   return (
     <div className="flex flex-col w-full max-w-[1920px] mx-auto overflow-x-hidden bg-white">
       <HeroSection />
@@ -16,7 +17,8 @@ export default function SkillManagementPage() {
       <SecondComponent />
       <Benefits />
       <Client />
-      <LandingSection  />
+      <LandingSection />
+      <ProductSEOContent pageId="skill-management" />
       <ScrollToTop />
     </div>
   );

@@ -5,6 +5,7 @@ import EssentailSection from "./EssentailSection";
 import SoftwareSection from "./SoftwareSection";
 import Benefits from "./Benefits";
 import ScrollToTop from "@/Components/layout/scroll-to-top/ScrollToTop";
+import ProductSEOContent from "@/Components/shared/ProductSEOContent";
 
 export default function SkillRepository() {
   return (
@@ -13,6 +14,7 @@ export default function SkillRepository() {
       <EssentailSection />
       <SoftwareSection />
       <Benefits />
+      <ProductSEOContent pageId="seamless-onboarding" />
       <ScrollToTop />
     </div>
   );

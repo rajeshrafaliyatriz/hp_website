@@ -60,7 +60,7 @@ export const PARTNERS_DATA = [
         category: "Product",
         title: "Higher Education Partners",
         description: "Streamlining operations and enhancing learning experiences for Higher Education Institutes.",
-        image: "/assets/partner_university.png"
+        image: "/assets/student_preview.png"
     },
     {
         id: 3,
@@ -89,7 +89,7 @@ export const PARTNERS_DATA = [
         category: "Product",
         title: "Higher Education Partners",
         description: "Streamlining operations and enhancing learning experiences for Higher Education Institutes.",
-        image: "/assets/partner_university.png"
+        image: "/assets/student_preview.png"
     },
     {
         id: 7,

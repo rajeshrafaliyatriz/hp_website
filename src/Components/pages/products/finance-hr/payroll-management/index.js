@@ -4,6 +4,7 @@ import HeroSection from "./HeroSection";
 import JobPosting from "./JobPosting";
 import JobPosting2 from "./JobPosting2";
 import ScrollToTop from "@/Components/layout/scroll-to-top/ScrollToTop";
+import ProductSEOContent from "@/Components/shared/ProductSEOContent";
 
 export default function SkillRepository() {
   return (
@@ -11,6 +12,7 @@ export default function SkillRepository() {
       <HeroSection />
       <JobPosting />
       <JobPosting2 />
+      <ProductSEOContent pageId="payroll-management" />
       <ScrollToTop />
     </div>
   );

@@ -1,9 +1,10 @@
 import React from "react";
 import HeroSection from "./HeroSection";
 import Second from "./Second";
-import ThirdSection from "./ThirdSection";  
+import ThirdSection from "./ThirdSection";
 import ScrollToTop from "@/Components/layout/scroll-to-top/ScrollToTop";
 import BenefitsSection from "./BenefitsSection";
+import ProductSEOContent from "@/Components/shared/ProductSEOContent";
 
 export default function SkillRepository() {
   return (
@@ -12,6 +13,7 @@ export default function SkillRepository() {
       <BenefitsSection />
       <Second />
       <ThirdSection />
+      <ProductSEOContent pageId="competency-matrix" />
       <ScrollToTop />
     </div>
   );
