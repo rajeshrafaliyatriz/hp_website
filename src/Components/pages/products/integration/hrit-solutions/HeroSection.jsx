@@ -7,7 +7,9 @@ export default function Index() {
           <div className="space-y-9 lg:space-y-14">
             {/* Main Heading */}
             <h1 className="self-stretch lg:text-4xl sm:text-3xl font-bold leading-tight max-md:text-3xl">
-              <span>Transforming HR with Streamlined,  </span>
+              <span>Transforming </span>
+              <span className="text-teal-500">HRIT Solutions </span>
+              <span>with Streamlined, </span>
               <span className="text-teal-500">Automated </span>
               <span>Processes for </span>
               <span>Organizational </span>

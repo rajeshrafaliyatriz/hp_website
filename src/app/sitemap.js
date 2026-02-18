@@ -8,8 +8,6 @@ export default async function sitemap() {
         '',
         '/about',
         '/contact',
-        '/company/careers',
-        '/company/partners',
         '/services',
         '/products/talent-solutions',
         '/products/learning-solutions',
