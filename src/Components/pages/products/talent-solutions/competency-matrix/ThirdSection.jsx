@@ -10,9 +10,9 @@ export default function Index() {
         {/* Main Call-to-Action Section */}
         <div className="bg-[#ABECE8] rounded-2xl p-8 md:p-16 text-center shadow-lg">
           {/* Main Heading */}
-          <h1 className="text-[#014D68] font-bold text-3xl md:text-3xl lg:text-4xl xl:text-5xl leading-tight mb-6 max-w-5xl mx-auto">
-           Ready to Transform the Way You View Team Capabilities? 
-          </h1>
+          <h2 className="text-[#014D68] font-bold text-3xl md:text-3xl lg:text-4xl xl:text-5xl leading-tight mb-6 max-w-5xl mx-auto">
+            Ready to Transform the Way You View Team Capabilities?
+          </h2>
 
           {/* Subheading */}
           <p className="text-doc-navy font-semibold text-lg md:text-xl lg:text-2xl mb-8">

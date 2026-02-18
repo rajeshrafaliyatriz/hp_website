@@ -25,18 +25,18 @@ export default function Index() {
 
               {/* Illustration */}
               <div className="relative z-8 lg:pl-0 flex justify-start">
-                  <img
-                      src="https://cdn.builder.io/api/v1/image/assets/TEMP/ae207fcd724b1b916a15021db746ba444ea4d006?width=1788"
-                      alt="Recruitment platform illustration"
-                      className="w-full max-w-[400px] md:max-w-[500px] lg:max-w-[62vw] xl:max-w-[584px] h-auto object-contain"
-                      style={{ marginLeft: 0 }}
-                  />
+                <img
+                  src="https://cdn.builder.io/api/v1/image/assets/TEMP/ae207fcd724b1b916a15021db746ba444ea4d006?width=1788"
+                  alt="Recruitment platform illustration"
+                  className="w-full max-w-[400px] md:max-w-[500px] lg:max-w-[62vw] xl:max-w-[584px] h-auto object-contain"
+                  style={{ marginLeft: 0 }}
+                />
               </div>
             </div>
             <div className="lg:pr-[12.6%] flex flex-col justify-center order-1 lg:order-2">
               {/* Header Section */}
               <div className="mb-8 md:mb-10 lg:mb-[44px]">
-                <h1
+                <h2
                   className="text-center lg:text-right font-bold mb-6 lg:mb-[30px] leading-tight"
                   style={{
                     fontSize: "clamp(32px, 3.33vw, 48px)",
@@ -50,7 +50,7 @@ export default function Index() {
                   }}
                 >
                   Recruitment Platform
-                </h1>
+                </h2>
                 <p
                   className="text-center lg:text-right"
                   style={{

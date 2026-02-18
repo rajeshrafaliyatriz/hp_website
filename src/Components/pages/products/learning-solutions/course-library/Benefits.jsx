@@ -43,9 +43,9 @@ export default function Index() {
             {/* Content Section */}
             <div className="order-1 lg:order-2 text-white text-center lg:text-left">
               {/* Main Heading */}
-              <h1 className="font-prompt text-2xl sm:text-3xl md:text-4xl lg:text-[42px] xl:text-[50px] font-normal leading-[1.1] mb-8 md:mb-10 lg:mb-12 max-w-[690px]">
+              <h2 className="font-prompt text-2xl sm:text-3xl md:text-4xl lg:text-[42px] xl:text-[50px] font-normal leading-[1.1] mb-8 md:mb-10 lg:mb-12 max-w-[690px]">
                 Why Choose Scholar Clone&apos;s Course Library?
-              </h1>
+              </h2>
 
               {/* Benefits Container */}
               <div className="relative max-w-[628px]">
@@ -61,7 +61,7 @@ export default function Index() {
                   {/* Top Right */}
                   <div className="text-center flex items-center justify-center min-h-[72px] md:min-h-[95px]">
                     <h3 className="font-prompt text-lg md:text-xl lg:text-2xl font-normal leading-tight max-w-[263px]">
-                       Continuous course updates
+                      Continuous course updates
                     </h3>
                   </div>
 
@@ -123,7 +123,7 @@ export default function Index() {
                 Reduce compliance risks with auto-reminders and quick certifications. Increase employee engagement with gamified micro-content. Enhance retention and performance across departments. Localized delivery = higher adoption, better understanding.
               </p>
               <h3 className="font-prompt text-[18px] md:text-[21px] lg:text-[24px] font-bold text-black">
-                Start Building Smarter Teams Today 
+                Start Building Smarter Teams Today
               </h3>
             </div>
             <button className="inline-flex items-center justify-center gap-3 px-4 bg-[#014D68] border border-[#2463EB] rounded-xl text-white font-sans text-[14px] font-bold leading-7 hover:bg-opacity-90 transition-all duration-200 w-[182px] h-11 shrink-0">

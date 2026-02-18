@@ -25,18 +25,18 @@ export default function Index() {
 
               {/* Illustration */}
               <div className="relative z-8 lg:pl-0 flex justify-start">
-                  <img
-                      src="https://cdn.builder.io/api/v1/image/assets/TEMP/ae207fcd724b1b916a15021db746ba444ea4d006?width=1788"
-                      alt="Recruitment platform illustration"
-                      className="w-full max-w-[400px] md:max-w-[500px] lg:max-w-[62vw] xl:max-w-[584px] h-auto object-contain"
-                      style={{ marginLeft: 0 }}
-                  />
+                <img
+                  src="https://cdn.builder.io/api/v1/image/assets/TEMP/ae207fcd724b1b916a15021db746ba444ea4d006?width=1788"
+                  alt="Recruitment platform illustration"
+                  className="w-full max-w-[400px] md:max-w-[500px] lg:max-w-[62vw] xl:max-w-[584px] h-auto object-contain"
+                  style={{ marginLeft: 0 }}
+                />
               </div>
             </div>
             <div className="lg:pr-[14.6%] lg:mx-20 lg:flex flex-col justify-center order-2 lg:order-1">
               {/* Header Section */}
               <div className="mb-8 md:mb-10 lg:mb-[44px]">
-                <h1
+                <h2
                   className="text-center lg:text-left font-bold mb-6 lg:mb-[30px] leading-tight"
                   style={{
                     fontSize: "clamp(32px, 3.33vw, 32px)",
@@ -50,7 +50,7 @@ export default function Index() {
                   }}
                 >
                   Talent Assessment for Skill Upgradation/Degradation
-                </h1>
+                </h2>
                 <p
                   className="text-center lg:text-left"
                   style={{
@@ -64,8 +64,8 @@ export default function Index() {
                     fontWeight: "400",
                   }}
                 >
-                  Track and evaluate employee skills in real time to identify growth, 
-                  stagnation, or decline. This helps uncover gaps early and align 
+                  Track and evaluate employee skills in real time to identify growth,
+                  stagnation, or decline. This helps uncover gaps early and align
                   workforce capabilities with changing business needs.
                 </p>
               </div>
@@ -98,7 +98,7 @@ export default function Index() {
                       fontWeight: "400",
                     }}
                   >
-                    AI-driven insights recommend personalized reskilling paths to keep 
+                    AI-driven insights recommend personalized reskilling paths to keep
                     teams agile and future-ready.
                   </span>
                 </div>

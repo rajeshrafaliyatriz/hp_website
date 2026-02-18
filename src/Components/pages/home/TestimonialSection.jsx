@@ -33,10 +33,10 @@ function TestimonialSection() {
 
   return (
     <>
-    {/* <div className="flex flex-col items-center rounded-none mt-40">
-      <h1 className="text-4xl font-bold text-black max-md:max-w-full max-md:text-2xl font-noto">
+      {/* <div className="flex flex-col items-center rounded-none mt-40">
+      <h2 className="text-4xl font-bold text-black max-md:max-w-full max-md:text-2xl font-noto">
         Our Client&apos;s Review
-      </h1>
+      </h2>
       <div className="flex items-center justify-center gap-10 mt-16 w-full relative px-10">
         
         <NavigationArrow 
@@ -61,16 +61,16 @@ function TestimonialSection() {
         />
       </div>
     </div> */}
-    <div className="mt-40"></div>
-    <section className="bg-blue-100 bg-opacity-80">
-    <h1 className="mt-10 lg:px-[100px] sm:px-10 mb-10 text-center font-inter lg:text-4xl sm:text-2xl" style={{
-      color:'rgba(17, 134, 254, 1)'
-     }}>
-     Empowering Learning and Growth Across Education and Enterprise
-     </h1>
-     <TestimonialList />
-     <div className="mt-10"></div>
-     </section>
+      <div className="mt-40"></div>
+      <section className="bg-blue-100 bg-opacity-80">
+        <h2 className="mt-10 lg:px-[100px] sm:px-10 mb-10 text-center font-inter lg:text-4xl sm:text-2xl" style={{
+          color: 'rgba(17, 134, 254, 1)'
+        }}>
+          Empowering Learning and Growth Across Education and Enterprise
+        </h2>
+        <TestimonialList />
+        <div className="mt-10"></div>
+      </section>
     </>
   );
 }

@@ -23,9 +23,9 @@ export default function Index() {
             {/* Right side - Content */}
             <div className="order-1 lg:order-2 space-y-6 lg:space-y-8">
               {/* Main heading */}
-              <h1 className="text-3xl sm:text-1xl lg:text-2xl xl:text-2xl font-bold text-[#FB923C] leading-tight font-sans">
+              <h2 className="text-3xl sm:text-1xl lg:text-2xl xl:text-2xl font-bold text-[#FB923C] leading-tight font-sans">
                 Audit Trail Generator
-              </h1>
+              </h2>
 
               {/* Content sections */}
               <div className="space-y-6 lg:space-y-8">
@@ -33,7 +33,7 @@ export default function Index() {
                 <div className="space-y-3 lg:space-y-4">
                   <div className="text-sm lg:text-sm text-black leading-relaxed space-y-3 font-sans">
                     <p>
-                    Transparency is key to good governance. Our built-in audit trail system automatically logs every change, action, and user activity providing complete accountability.  
+                      Transparency is key to good governance. Our built-in audit trail system automatically logs every change, action, and user activity providing complete accountability.
                     </p>
                     <ul className="space-y-1 ml-4">
                       <li>📌 Tamper-proof digital logs </li>
@@ -46,7 +46,7 @@ export default function Index() {
                 {/* Intelligent Candidate Filtering */}
                 <div className="space-y-3 lg:space-y-4">
                   <h2 className="text-1xl lg:text-1xl font-bold text-[#FB923C] font-sans">
-                   Why Choose Our Compliance Management Platform? 
+                    Why Choose Our Compliance Management Platform?
                   </h2>
                   <div className="text-sm lg:text-sm text-black leading-relaxed space-y-3 font-sans">
                     <ul className="space-y-1 ml-4">
@@ -54,7 +54,7 @@ export default function Index() {
                       <li>✔️  Tailored for Indian labor compliance</li>
                       <li>✔️ Centralized audit and document repository</li>
                       <li>✔️ Transparent, secure, and reliable recordkeeping </li>
-                      <li>✔️ Built for HR teams, auditors, and operations managers</li> 
+                      <li>✔️ Built for HR teams, auditors, and operations managers</li>
                     </ul>
                   </div>
                 </div>

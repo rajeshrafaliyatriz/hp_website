@@ -23,9 +23,9 @@ export default function Index() {
             {/* Right side - Content */}
             <div className="order-1 lg:order-2 space-y-6 lg:space-y-8">
               {/* Main heading */}
-              <h1 className="text-3xl sm:text-1xl lg:text-2xl xl:text-2xl font-bold text-[#FB923C] leading-tight font-sans">
-                Continuous Growth, Not Just Annual Reviews 
-              </h1>
+              <h2 className="text-3xl sm:text-1xl lg:text-2xl xl:text-2xl font-bold text-[#FB923C] leading-tight font-sans">
+                Continuous Growth, Not Just Annual Reviews
+              </h2>
 
               {/* Content sections */}
               <div className="space-y-6 lg:space-y-8">
@@ -33,7 +33,7 @@ export default function Index() {
                 <div className="space-y-3 lg:space-y-4">
                   <div className="text-sm lg:text-sm text-black leading-relaxed space-y-3 font-sans">
                     <p>
-                    Traditional performance management is outdated. Our enablement tools support ongoing development through real-time insights, collaborative goal setting, and continuous feedback loops.  
+                      Traditional performance management is outdated. Our enablement tools support ongoing development through real-time insights, collaborative goal setting, and continuous feedback loops.
                     </p>
                     <ul className="space-y-1 ml-4">
                       <li>📌 Move beyond once-a-year appraisals   </li>
@@ -46,7 +46,7 @@ export default function Index() {
                 {/* Intelligent Candidate Filtering */}
                 <div className="space-y-3 lg:space-y-4">
                   <h2 className="text-1xl lg:text-1xl font-bold text-[#FB923C] font-sans">
-                    Why Choose Our Performance Enablement Platform? 
+                    Why Choose Our Performance Enablement Platform?
                   </h2>
                   <div className="text-sm lg:text-sm text-black leading-relaxed space-y-3 font-sans">
                     <ul className="space-y-1 ml-4">

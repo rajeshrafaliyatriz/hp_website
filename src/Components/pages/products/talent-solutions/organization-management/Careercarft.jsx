@@ -5,18 +5,18 @@ export default function Index() {
       <div className="lg:container mx-auto px-6 py-12 lg:py-20">
         {/* Main Heading */}
         <div className="text-center mb-16">
-          <h1 className="text-1xl md:text-5xl lg:text-3xl font-bold leading-tight">
+          <h2 className="text-1xl md:text-5xl lg:text-3xl font-bold leading-tight">
             <span className="text-[#014D68]">Career Craft</span>
             <br />
             <span className="text-black">
               Embark on a Journey of Excellence
             </span>
-          </h1>
+          </h2>
         </div>
 
         {/* Two Column Layout */}
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center max-w-7xl mx-auto">
-          {/* Left Column - Content Card */ }
+          {/* Left Column - Content Card */}
           <div className="order-2 lg:order-1">
             <div className="bg-[rgba(32,207,198,0.08)] rounded-lg p-5 lg:p-7 shadow-md">
               {/* Card Header */}
@@ -25,7 +25,7 @@ export default function Index() {
                   Organizational Structure Management
                 </h2>
                 <p className="text-[#4D4D4D] text-xs font-semibold leading-relaxed">
-                  A centralized platform to manage your organization’s structure, 
+                  A centralized platform to manage your organization’s structure,
                   skill libraries, and foundational details across departments and units.
                 </p>
               </div>
@@ -35,11 +35,11 @@ export default function Index() {
                 {/* Organization-Wide Framework */}
                 <div>
                   <h3 className="text-brand-gray-dark text-base lg:text-lg font-bold mb-2">
-                   • Add Organization Details (Branches, Units, Logo, Address)
+                    • Add Organization Details (Branches, Units, Logo, Address)
                   </h3>
                   <p className="text-[#4D4D4D] text-xs font-semibold leading-relaxed">
-                    Maintain accurate and up-to-date information about your organization’s 
-                    physical and structural components. Easily manage branch-level 
+                    Maintain accurate and up-to-date information about your organization’s
+                    physical and structural components. Easily manage branch-level
                     addresses, logos, and unit hierarchies in one place.
                   </p>
                 </div>
@@ -50,8 +50,8 @@ export default function Index() {
                     • Organization Skill Library (Skill Taxonomy, Import Options)
                   </h3>
                   <p className="text-[#4D4D4D] text-xs font-semibold leading-relaxed mb-2">
-                    Build a dedicated skill repository for your organization. 
-                    Define role-based or unit-based skill taxonomies, and 
+                    Build a dedicated skill repository for your organization.
+                    Define role-based or unit-based skill taxonomies, and
                     import existing frameworks with flexible options to streamline setup and scalability.
                   </p>
                 </div>
@@ -66,7 +66,7 @@ export default function Index() {
             </div>
           </div>
 
-         { /* Right Column - Illustration */}
+          { /* Right Column - Illustration */}
           <div className="order-1 lg:order-2">
             <div className="relative">
               <img

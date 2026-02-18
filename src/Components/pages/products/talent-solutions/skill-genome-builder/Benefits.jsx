@@ -8,44 +8,44 @@ export default function Index() {
           <div className="grid lg:grid-cols-[1fr,1.2fr] gap-8 md:gap-12 lg:gap-16 xl:gap-20 items-center">
             {/* Team Photos Grid */}
             {/* Team Photos Grid */}
-<div className="order-2 lg:order-1 flex justify-center lg:justify-start">
-  <div className="grid grid-cols-2 gap-4 md:gap-6 w-full max-w-[300px] sm:max-w-[400px] md:max-w-[480px] lg:max-w-[520px] xl:max-w-[568px]">
-    {/* Top Left */}
-    <img
-      src="/Detailes page/image 3.jpg"
-      alt="Smiling team member with dark skin"
-      className="w-full aspect-square object-cover rounded-tl-[76px] rounded-tr-[76px] rounded-br-0 rounded-bl-[76px] border-2 border-white"
-    />
+            <div className="order-2 lg:order-1 flex justify-center lg:justify-start">
+              <div className="grid grid-cols-2 gap-4 md:gap-6 w-full max-w-[300px] sm:max-w-[400px] md:max-w-[480px] lg:max-w-[520px] xl:max-w-[568px]">
+                {/* Top Left */}
+                <img
+                  src="/Detailes page/image 3.jpg"
+                  alt="Smiling team member with dark skin"
+                  className="w-full aspect-square object-cover rounded-tl-[76px] rounded-tr-[76px] rounded-br-0 rounded-bl-[76px] border-2 border-white"
+                />
 
-    {/* Top Right */}
-    <img
-      src="/Detailes page/image 4.jpg"
-      alt="Smiling team member with light skin"
-      className="w-full aspect-square object-cover rounded-tl-[76px] rounded-tr-[73px] rounded-br-[76px] rounded-bl-0 border-2 border-white"
-    />
+                {/* Top Right */}
+                <img
+                  src="/Detailes page/image 4.jpg"
+                  alt="Smiling team member with light skin"
+                  className="w-full aspect-square object-cover rounded-tl-[76px] rounded-tr-[73px] rounded-br-[76px] rounded-bl-0 border-2 border-white"
+                />
 
-    {/* Bottom Left */}
-    <img
-      src="/Detailes page/image 5.jpg"
-      alt="Professional team member in dark clothing"
-      className="w-full aspect-square object-cover rounded-tl-[76px] rounded-tr-0 rounded-br-[76px] rounded-bl-[76px] border-2 border-white"
-    />
+                {/* Bottom Left */}
+                <img
+                  src="/Detailes page/image 5.jpg"
+                  alt="Professional team member in dark clothing"
+                  className="w-full aspect-square object-cover rounded-tl-[76px] rounded-tr-0 rounded-br-[76px] rounded-bl-[76px] border-2 border-white"
+                />
 
-    {/* Bottom Right */}
-    <img
-      src="/Detailes page/image 6.jpg"
-      alt="Team member in light colored sweater"
-      className="w-full aspect-square object-cover rounded-tl-0 rounded-tr-[76px] rounded-br-[76px] rounded-bl-[46px] border-2 border-white"
-    />
-  </div>
-</div>
+                {/* Bottom Right */}
+                <img
+                  src="/Detailes page/image 6.jpg"
+                  alt="Team member in light colored sweater"
+                  className="w-full aspect-square object-cover rounded-tl-0 rounded-tr-[76px] rounded-br-[76px] rounded-bl-[46px] border-2 border-white"
+                />
+              </div>
+            </div>
 
             {/* Content Section */}
             <div className="order-1 lg:order-2 text-white text-center lg:text-left">
               {/* Main Heading */}
-              <h1 className="font-prompt text-2xl sm:text-3xl md:text-4xl lg:text-[42px] xl:text-[50px] font-normal leading-[1.1] mb-8 md:mb-10 lg:mb-12 max-w-[690px]">
-                 Why Choose Skill Genome Builder? 
-              </h1>
+              <h2 className="font-prompt text-2xl sm:text-3xl md:text-4xl lg:text-[42px] xl:text-[50px] font-normal leading-[1.1] mb-8 md:mb-10 lg:mb-12 max-w-[690px]">
+                Why Choose Skill Genome Builder?
+              </h2>
 
               {/* Benefits Container */}
               <div className="relative max-w-[628px]">
@@ -117,13 +117,13 @@ export default function Index() {
           <div className="w-full max-w-[1400px] h-[314px] flex flex-col justify-center items-center">
             <div className="w-full max-w-[1400px] mb-[113px]">
               <h2 className="font-prompt text-[24px] md:text-[30px] lg:text-[36px] font-bold text-black leading-normal mb-4">
-               Empower Your Skill Ecosystem 
+                Empower Your Skill Ecosystem
               </h2>
               <p className="font-prompt text-[18px] md:text-[21px] lg:text-[24px] font-normal text-black leading-normal mb-4">
-               Whether you&apos;re structuring skills for a school, university, or a fast-growing company, the Skill Genome Builder helps you move from chaos to clarity. 
+                Whether you&apos;re structuring skills for a school, university, or a fast-growing company, the Skill Genome Builder helps you move from chaos to clarity.
               </p>
               <h3 className="font-prompt text-[18px] md:text-[21px] lg:text-[24px] font-bold text-black">
-                 Start building your skill DNA today
+                Start building your skill DNA today
               </h3>
             </div>
             <button className="inline-flex items-center justify-center gap-3 px-4 bg-[#014D68] border border-[#2463EB] rounded-xl text-white font-sans text-[14px] font-bold leading-7 hover:bg-opacity-90 transition-all duration-200 w-[182px] h-11 shrink-0">
@@ -132,8 +132,8 @@ export default function Index() {
           </div>
         </div>
       </section>
-      </div>
-    );
+    </div>
+  );
 }
 
 

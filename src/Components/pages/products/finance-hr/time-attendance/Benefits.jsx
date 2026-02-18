@@ -43,9 +43,9 @@ export default function Index() {
             {/* Content Section */}
             <div className="order-1 lg:order-2 text-white text-center lg:text-left">
               {/* Main Heading */}
-              <h1 className="font-prompt text-2xl sm:text-3xl md:text-4xl lg:text-[42px] xl:text-[50px] font-normal leading-[1.1] mb-8 md:mb-10 lg:mb-12 max-w-[690px]">
+              <h2 className="font-prompt text-2xl sm:text-3xl md:text-4xl lg:text-[42px] xl:text-[50px] font-normal leading-[1.1] mb-8 md:mb-10 lg:mb-12 max-w-[690px]">
                 Why Choose Our Time & Attendance Solution?
-              </h1>
+              </h2>
 
               {/* Benefits Container */}
               <div className="relative max-w-[628px]">
@@ -120,7 +120,7 @@ export default function Index() {
                 Empowering Your Organization
               </h2>
               <p className="font-prompt text-[18px] md:text-[21px] lg:text-[24px] font-normal text-black leading-normal mb-4">
-               Our solution does more than track hours  it builds a culture of accountability and trust. With My Attendance, you gain actionable insights that help optimize staffing, control labor costs, and enhance employee satisfaction.
+                Our solution does more than track hours  it builds a culture of accountability and trust. With My Attendance, you gain actionable insights that help optimize staffing, control labor costs, and enhance employee satisfaction.
               </p>
             </div>
             <button className="inline-flex items-center justify-center gap-3 px-4 bg-[#014D68] border border-[#2463EB] rounded-xl text-white font-sans text-[18px] font-bold leading-7 hover:bg-opacity-90 transition-all duration-200 w-[182px] h-11 shrink-0">

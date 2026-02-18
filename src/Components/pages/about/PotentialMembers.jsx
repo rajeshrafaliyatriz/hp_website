@@ -15,9 +15,9 @@ const memberData = [
 function PotentialMembers() {
   return (
     <section className="flex flex-col pl-24 mr-24">
-      <h1 className="self-center ml-8 text-4xl font-semibold text-sky-500 max-md:max-w-full max-md:text-4xl">
+      <h2 className="self-center ml-8 text-4xl font-semibold text-sky-500 max-md:max-w-full max-md:text-4xl">
         Our potential Members
-      </h1>
+      </h2>
       <div className="mt-10 w-full max-md:mt-10 max-md:max-w-full">
         <div className="flex gap-5 max-md:flex-col">
           {memberData.slice(0, 4).map((member, index) => (

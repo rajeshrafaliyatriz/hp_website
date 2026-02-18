@@ -49,9 +49,9 @@ function WhatWeOffer() {
       </section>
 
       <section className="flex flex-col items-center bg-gray-100 px-4 py-8 md:px-32 md:py-8 mb-[500px]">
-        <h1 className="lg:text-3xl sm:text-2xl md:text-3xl font-bold text-amber-500">
+        <h2 className="lg:text-3xl sm:text-2xl md:text-3xl font-bold text-amber-500">
           What We Offer
-        </h1>
+        </h2>
         <p className="self-start mt-4 sm:mt-6 text-xs sm:text-sm md:text-lg text-black max-w-full text-justify">
           Scholar Clone is a forward-thinking company dedicated to transforming educational experiences through innovative solutions. We specialize in providing a comprehensive school management system that streamlines administrative tasks, enhances communication, and improves operational efficiency. Our Learning Management System (LMS) empowers educators and students with tools for interactive learning, assessment, and progress tracking, tailored to modern educational needs. In addition, our career counseling services guide students toward fulfilling their academic and professional aspirations, ensuring they make informed decisions about their future. At Scholar Clone, we are committed to fostering an environment where education and technology come together to create meaningful impacts on students&apos; lives.
         </p>
@@ -69,7 +69,7 @@ function WhatWeOffer() {
         <h2 className="mt-6 sm:mt-10 text-xl sm:text-2xl md:text-3xl font-bold text-amber-500">
           The Value You Unlock
         </h2>
-        
+
         <ul className="self-start mt-6 sm:mt-10 text-xs sm:text-sm md:text-xl text-black">
           <li className='text-justify'>Automating daily tasks reduces administrative burden and saves valuable time for staff and management.</li>
           <li className='text-justify'>Tracking student progress with real-time data and personalized learning tools improves performance through targeted interventions.</li>

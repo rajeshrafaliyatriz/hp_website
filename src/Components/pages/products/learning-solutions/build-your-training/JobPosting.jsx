@@ -7,9 +7,9 @@ const JobPosting = ({ className = "" }) => {
     >
       <div className="lg:mx-20 sm:mx-6 max-w-[1440px] relative">
         {/* Title */}
-        <h1 className="text-[#ff9d48] text-3xl md:text-4xl lg:text-[32px] font-bold font-onest mb-5">
+        <h2 className="text-[#ff9d48] text-3xl md:text-4xl lg:text-[32px] font-bold font-onest mb-5">
           Simple & Intuitive Course Designer
-        </h1>
+        </h2>
 
         <div className="flex flex-col lg:flex-row gap-8">
           {/* Left Text Section */}
@@ -35,7 +35,7 @@ const JobPosting = ({ className = "" }) => {
             </ul>
 
             <h3 className="text-[#ff9d48] text-xl md:text-2xl lg:text-[18px] font-bold font-onest">
-              Quiz Maker Toolkit 
+              Quiz Maker Toolkit
             </h3>
 
             <ul className="text-black text-lg md:text-sm font-normal font-onest space-y-2">
@@ -45,19 +45,19 @@ const JobPosting = ({ className = "" }) => {
             </ul>
 
             <p className="text-black text-lg md:text-sm font-normal font-onest mt-2">
-             Engage learners and assess progress with our interactive Quiz Maker.  
+              Engage learners and assess progress with our interactive Quiz Maker.
             </p>
           </div>
 
           {/* Right Visual Section */}
           <div className="flex-1 flex justify-center items-center">
-              <img
-                className=" w-[600px] h-[500px]  border border-[#b3b3b3] rounded-lg object-cover bg-white"
-                src="/Detailes page/image 48.jpg"
-                alt="Team collaboration in office environment"
-              />
-            </div>
+            <img
+              className=" w-[600px] h-[500px]  border border-[#b3b3b3] rounded-lg object-cover bg-white"
+              src="/Detailes page/image 48.jpg"
+              alt="Team collaboration in office environment"
+            />
           </div>
+        </div>
       </div>
     </div>
   );

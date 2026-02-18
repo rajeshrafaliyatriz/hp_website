@@ -23,9 +23,9 @@ export default function Index() {
             {/* Right side - Content */}
             <div className="order-1 lg:order-2 space-y-6 lg:space-y-8">
               {/* Main heading */}
-              <h1 className="text-3xl sm:text-1xl lg:text-2xl xl:text-2xl font-bold text-[#FB923C] leading-tight font-sans">
+              <h2 className="text-3xl sm:text-1xl lg:text-2xl xl:text-2xl font-bold text-[#FB923C] leading-tight font-sans">
                 Customization that Scales
-              </h1>
+              </h2>
 
               {/* Content sections */}
               <div className="space-y-6 lg:space-y-8">
@@ -33,7 +33,7 @@ export default function Index() {
                 <div className="space-y-3 lg:space-y-4">
                   <div className="text-sm lg:text-sm text-black leading-relaxed space-y-3 font-sans">
                     <p>
-                     Design unique learning experiences tailored to your organization&rsquo;s needs. 
+                      Design unique learning experiences tailored to your organization&rsquo;s needs.
                     </p>
                     <ul className="space-y-1 ml-4">
                       <li>📌 Set course prerequisites and completion rules  </li>
@@ -46,11 +46,11 @@ export default function Index() {
                 {/* Intelligent Candidate Filtering */}
                 <div className="space-y-3 lg:space-y-4">
                   <h2 className="text-1xl lg:text-1xl font-bold text-[#FB923C] font-sans">
-                    Launch, Track & Improve 
+                    Launch, Track & Improve
                   </h2>
                   <div className="text-sm lg:text-sm text-black leading-relaxed space-y-3 font-sans">
                     <p>
-                      Easily publish courses, assign them to learners, and monitor progress through built-in analytics. 
+                      Easily publish courses, assign them to learners, and monitor progress through built-in analytics.
                     </p>
                     <ul className="space-y-1 ml-4">
                       <li>✔️ Track learner engagement and completion  </li>
@@ -63,19 +63,19 @@ export default function Index() {
                 {/* Reduce Bias & Improve Fairness */}
                 <div className="space-y-3 lg:space-y-4">
                   <h2 className="text-1xl lg:text-1xl font-bold text-black font-sans">
-                    Why Choose Build Your Training? 
+                    Why Choose Build Your Training?
                   </h2>
                   <ul className="text-sm lg:text-sm text-black leading-relaxed space-y-3 font-sans">
-                     <li>📌
-                       Fast Course Creation 
+                    <li>📌
+                      Fast Course Creation
                     </li>
-                     <li>📌                         
-                     Seamless Content Upload 
+                    <li>📌
+                      Seamless Content Upload
                     </li>
-                     <li>📌
-                      Custom Assessments  
+                    <li>📌
+                      Custom Assessments
                     </li>
-                     <li>📌
+                    <li>📌
                       Insightful Analytics
                     </li>
                   </ul>

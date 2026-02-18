@@ -43,9 +43,9 @@ export default function Index() {
             {/* Content Section */}
             <div className="order-1 lg:order-2 text-white text-center lg:text-left">
               {/* Main Heading */}
-              <h1 className="font-prompt text-2xl sm:text-3xl md:text-4xl lg:text-[42px] xl:text-[50px] font-normal leading-[1.1] mb-8 md:mb-10 lg:mb-12 max-w-[690px]">
+              <h2 className="font-prompt text-2xl sm:text-3xl md:text-4xl lg:text-[42px] xl:text-[50px] font-normal leading-[1.1] mb-8 md:mb-10 lg:mb-12 max-w-[690px]">
                 Who Is It For?
-              </h1>
+              </h2>
 
               {/* Benefits Container */}
               <div className="relative max-w-[628px]">
