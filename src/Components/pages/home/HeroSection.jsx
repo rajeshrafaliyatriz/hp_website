@@ -1,6 +1,7 @@
 
 import React from "react";
 import EmailForm from "./EmailForm";
+import Link from "next/link";
 
 function HeroSection() {
   return (
@@ -11,13 +12,15 @@ function HeroSection() {
           <span className="text-teal-400"><br />Excellence</span>
         </h1>
         <p className="mt-10 text-2xl font-medium leading-10 text-black lg:w-[600px] max-md:max-w-full">
-          A Future-Proof Symphony of AI, Automation, and Human Ingenuity.
+          AI-powered ERP solutions for universities, colleges, and schools across Himachal Pradesh.
         </p>
         <div className="flex flex-wrap lg:gap-5 mt-20 text-xl leading-none max-md:mt-10">
-          <EmailForm />
-          <button suppressHydrationWarning className="lg:px-5 sm:px-10 lg:h-12 sm:h-20 lg:mt-0 sm:mt-8 lg:mb-0 sm:mb-5   text-white bg-sky-900 rounded shadow-[0px_15px_26px_rgba(0,0,0,0.03)] lg:max-md:px-5">
+          <Link href="/contact" className="px-8 py-4 bg-sky-600 hover:bg-sky-700 text-white font-semibold rounded-full transition">
             Book Demo
-          </button>
+          </Link>
+          <Link href="/products/talent-solutions" className="px-8 py-4 border-2 border-sky-600 text-sky-600 font-semibold rounded-full hover:bg-sky-50 transition">
+            Explore Solutions
+          </Link>
         </div>
       </div>
     </div>

@@ -27,12 +27,7 @@ const SolutionCard1 = () => {
               Solution For K-12
             </div>
             <div className="mt-10 text-xl font-bold text-black max-md:max-w-full font-roboto text-justify leading-relaxed">
-              Scholar Clone redefines K-12 education with its all-in-one
-              future-ready solution, blending AI-powered automation, seamless
-              school management, and personalized learning. From dynamic
-              timetable creation to psychometric career guidance, interactive
-              course management, and adaptive learning analytics, it empowers
-              schools to inspire success.
+              Comprehensive K-12 school management with automated attendance, timetable scheduling, parent communication, and assessment tracking. Features include student information systems, fee management, and transport tracking.
             </div>
             <div className="mt-3.5 w-full max-md:mr-1.5 max-md:max-w-full">
               <div className="flex gap-5 max-md:flex-col">

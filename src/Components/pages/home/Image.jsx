@@ -6,6 +6,8 @@ const ImageComponent = () => {
     <img
       loading="lazy"
       src="./home_images/image.png"
+      width="800"
+      height="318"
       className="object-contain lg:w-[80%] sm:w-[75%] aspect-[2.51]"
       alt="Content image"
     />

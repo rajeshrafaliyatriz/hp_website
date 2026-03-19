@@ -40,7 +40,7 @@ export const SolutionCard2 = () => {
             Solution For Higher Education
             </div>
             <div className="mt-10 text-xl font-bold text-black max-md:max-w-full font-roboto text-justify leading-relaxed">
-            Scholar Clone transforms higher education with its AI-driven, all-in-one solution, streamlining campus operations, enhancing student engagement, and delivering personalized learning. From advanced analytics to career-focused resources, it empowers institutions to prepare globally competitive graduates and achieve academic excellence.
+            University management system with student lifecycle management, faculty scheduling, examination management, and NAAC/NIRF accreditation support. Includes learning management system with course delivery and progress tracking.
             </div>
             <div className="mt-3.5 w-full max-md:mr-1.5 max-md:max-w-full">
               <div className="flex gap-5 max-md:flex-col">
