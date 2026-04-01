@@ -5,12 +5,12 @@ import ContactMap from '@/Components/pages/contact/ContactMap';
 
 export const metadata = {
     title: 'Contact Us - Get in Touch',
-    description: 'Contact Scholar Clone for inquiries about our education management solutions. We\'re here to help transform your institution.',
+    description: 'Contact GapsToGrowth for inquiries about our education management solutions. We\'re here to help transform your institution.',
     keywords: 'contact, support, inquiry, demo request',
     openGraph: {
-        title: 'Contact Scholar Clone',
+        title: 'Contact GapsToGrowth',
         description: 'Get in touch with our team to learn how we can help your institution.',
-        images: ['/Images/Logo.png'],
+      images: ['/assets/Logo.png?v=v2'],
         type: 'website',
     },
 };
@@ -19,7 +19,7 @@ export default function ContactPage() {
     return (
         <main className="min-h-screen bg-white">
             {/* Hero Section */}
-            <h1 className="sr-only">Contact Scholar Clone</h1>
+            <h1 className="sr-only">Contact GapsToGrowth</h1>
             <ContactHero />
 
             <div className="max-w-4xl mx-auto px-4 py-8 text-center">

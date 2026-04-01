@@ -26,7 +26,7 @@ export const SolutionCard3 = () => {
               Solution For Corporate
             </div>
             <div className="mt-10 text-xl font-bold text-black max-md:max-w-full font-roboto text-justify leading-relaxed">
-            Scholar Clone revolutionizes the corporate sector with its comprehensive HRMS and career-focused solutions, integrating AI-powered tools for streamlined workforce management and employee development. From automated HR workflows to personalized career growth paths, it empowers organizations to boost efficiency, enhance talent retention, and drive success.
+            GapsToGrowth revolutionizes the corporate sector with its comprehensive HRMS and career-focused solutions, integrating AI-powered tools for streamlined workforce management and employee development. From automated HR workflows to personalized career growth paths, it empowers organizations to boost efficiency, enhance talent retention, and drive success.
             </div>
             <div className="mt-3.5 w-full max-md:mr-1.5 max-md:max-w-full">
               <div className="flex gap-5 max-md:flex-col">

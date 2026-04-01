@@ -3,14 +3,14 @@ import ProductComponent from '@/Components/pages/products/talent-solutions/caree
 
 export const metadata = {
     title: "Career Pathing | Talent Solutions",
-    description: "Map out clear career progression paths for your employees with Scholar Clone's Career Pathing tools.",
-    keywords: ["Career Pathing", "Employee Growth", "Talent Development", "Scholar Clone"],
+    description: "Map out clear career progression paths for your employees with GapsToGrowth's Career Pathing tools.",
+    keywords: ["Career Pathing", "Employee Growth", "Talent Development", "GapsToGrowth"],
     alternates: {
         canonical: '/products/talent-solutions/career-pathing',
     },
     openGraph: {
-        title: "Career Pathing | Talent Solutions | Scholar Clone",
-        description: "Map out clear career progression paths for your employees with Scholar Clone's Career Pathing tools.",
+        title: "Career Pathing | Talent Solutions | GapsToGrowth",
+        description: "Map out clear career progression paths for your employees with GapsToGrowth's Career Pathing tools.",
     }
 };
 

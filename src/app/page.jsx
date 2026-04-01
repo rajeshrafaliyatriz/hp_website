@@ -2,11 +2,11 @@ import React from 'react';
 import Client from '@/Components/pages/home/ClientSection';
 
 export const metadata = {
-    title: "ScholarClone HP | AI-Powered University Management System",
-    description: "ScholarClone HP: The leading AI-powered educational ERP for Universities and Schools in Himachal Pradesh. Unified Talent, Learning, and Finance solutions.",
-    keywords: ["University Management System", "School ERP HP", "AI in Education", "ScholarClone", "LMS Himachal", "Student Information System"],
+    title: "GapsToGrowth HP | AI-Powered University Management System",
+    description: "GapsToGrowth HP: The leading AI-powered educational ERP for Universities and Schools in Himachal Pradesh. Unified Talent, Learning, and Finance solutions.",
+    keywords: ["University Management System", "School ERP HP", "AI in Education", "GapsToGrowth", "LMS Himachal", "Student Information System"],
     alternates: {
-        canonical: 'https://hp.scholarclone.com/',
+        canonical: 'https://hp.gapstogrowth.com/',
     },
 };
 import Scroll from '@/Components/layout/scroll-to-top/ScrollToTop';

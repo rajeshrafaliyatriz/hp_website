@@ -29,14 +29,14 @@ export default function MyComponent() {
             <div className="lg:flex lg:flex-col lg:mt-7  lg:w-full max-md:mt-4 max-md:max-w-full">
               <div className="flex flex-col pr-1 pl-5 w-full text-xl text-black max-md:max-w-full ">
                 <div className="text-xl lg:text-left sm:text-center text-start text-amber-500 font-inter max-md:max-w-full">
-                  Empower Education on the Go with Scholar Clone&rsquo;s Mobile Apps
+                  Empower Education on the Go with GapsToGrowth&rsquo;s Mobile Apps
                 </div>
                 <div className="self-start lg:text-align-left sm:text-center mt-2 text-lg font-intermedium text-center max-md:max-w-full">
                   Anytime, Anywhere Access for Parents, Students, and Admins
                 </div>
                 <div className="mt-5 lg:ml-0 sm:mx-10 lg:text-max sm:text-justify text-sm font-interegular max-md:mt-10 max-md:mr-2.5 max-md:max-w-full">
                   Gone are the days when education was confined to classrooms or
-                  office hours. With Scholar Clone’s feature-rich mobile
+                  office hours. With GapsToGrowth’s feature-rich mobile
                   applications, parents, students, and administrators can stay
                   connected and informed anytime, anywhere. From tracking progress
                   to managing critical operations, our apps ensure that every
@@ -134,11 +134,11 @@ export default function MyComponent() {
           {[
             {
               title: "Scalable Solutions for Organizations of Any Size",
-              description: "Scholar Clone adapts to the needs of schools, universities, and corporate training programs, seamlessly growing with expanding enrollments, staff, and operational demands."
+              description: "GapsToGrowth adapts to the needs of schools, universities, and corporate training programs, seamlessly growing with expanding enrollments, staff, and operational demands."
             },
             {
               title: "AI-Driven Personalization and Innovation",
-              description: "With AI-powered learning paths tailored to individual needs, Scholar Clone enhances learning outcomes for students and professionals alike."
+              description: "With AI-powered learning paths tailored to individual needs, GapsToGrowth enhances learning outcomes for students and professionals alike."
             },
             {
               title: "Unified Operations, Simplified Management",
@@ -146,7 +146,7 @@ export default function MyComponent() {
             },
             {
               title: "Real-Time Insights for Better Decision-Making",
-              description: "Scholar Clone provides data-driven analytics and performance tracking, enabling educators and organizations to make informed decisions and improve outcomes."
+              description: "GapsToGrowth provides data-driven analytics and performance tracking, enabling educators and organizations to make informed decisions and improve outcomes."
             }
           ].map((item, index) => (
             <div key={index} className="flex flex-col lg:w-3/12 sm:w-full lg:mb-0 sm:mb-10 max-md:w-full">

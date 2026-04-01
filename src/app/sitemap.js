@@ -1,7 +1,7 @@
 import { PRODUCTS_DROPDOWN_DATA } from '@/lib/data';
 
 export default async function sitemap() {
-    const baseUrl = 'https://hp.scholarclone.com';
+    const baseUrl = 'https://hp.gapstogrowth.com';
 
     // Static routes
     const staticRoutes = [
@@ -9,6 +9,7 @@ export default async function sitemap() {
         '/about',
         '/contact',
         '/services',
+        '/blog',
         '/products/talent-solutions',
         '/products/learning-solutions',
         '/products/finance-hr',

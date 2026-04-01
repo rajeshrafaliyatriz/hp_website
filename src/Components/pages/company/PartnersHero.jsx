@@ -25,7 +25,7 @@ export default function PartnersHero() {
 
                 {/* Main Text */}
                 <h1 className="text-4xl md:text-5xl font-bold mb-6 max-w-4xl drop-shadow-md">
-                    Partner with Scholar Clone to<br />
+                    Partner with GapsToGrowth to<br />
                     Shape the Future of Education
                 </h1>
 

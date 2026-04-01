@@ -25,7 +25,7 @@ export default function EmployeeBenefits() {
                     ">
                         <Image
                             src="/assets/Employee_Benifits_Career.png"
-                            alt="Employee Benefits at Scholar Clone"
+                            alt="Employee Benefits at GapsToGrowth"
                             fill
                             className="object-cover"
                             sizes="(max-width: 1024px) 100vw, 50vw"

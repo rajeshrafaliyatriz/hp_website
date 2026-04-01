@@ -2,14 +2,14 @@ import ProductComponent from '@/Components/pages/products/learning-solutions/lea
 
 export const metadata = {
   title: "Leadership Shield | Learning Solutions",
-  description: "Develop strong leaders and protect your organization's future with Scholar Clone's Leadership Shield.",
-  keywords: ["Leadership Development", "Executive Training", "Succession Planning", "Scholar Clone"],
+  description: "Develop strong leaders and protect your organization's future with GapsToGrowth's Leadership Shield.",
+  keywords: ["Leadership Development", "Executive Training", "Succession Planning", "GapsToGrowth"],
   alternates: {
     canonical: '/products/learning-solutions/leadership-shield',
   },
   openGraph: {
-    title: "Leadership Shield | Learning Solutions | Scholar Clone",
-    description: "Develop strong leaders and protect your organization's future with Scholar Clone's Leadership Shield.",
+    title: "Leadership Shield | Learning Solutions | GapsToGrowth",
+    description: "Develop strong leaders and protect your organization's future with GapsToGrowth's Leadership Shield.",
   }
 };
 

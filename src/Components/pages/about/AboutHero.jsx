@@ -61,7 +61,7 @@ export default function AboutHero() {
                             top-0 lg:top-[-100px]
                             left-0 lg:left-[-70px]
                         ">
-                            Founded in 2010, Scholar Clone has been a pioneering force in transforming technology for
+                            Founded in 2010, GapsToGrowth has been a pioneering force in transforming technology for
                             education and corporate sectors. Specializes in software solutions for the education and
                             training sectors. It provides next-generation education solutions for schools, higher education institutes,
                             SMEs, and corporate clients, both in India and globally. Our advanced solutions,
@@ -83,18 +83,15 @@ export default function AboutHero() {
                             {/* Logo */}
                             {/* eslint-disable-next-line @next/next/no-img-element */}
                             <img
-                                src="/assets/Logo.png"
-                                alt="Scholar Clone Logo"
+                                src="/assets/Logo.png?v=v2"
+                                alt="GapsToGrowth Logo"
                                 className="h-16 md:h-24 w-auto"
                             />
 
                             {/* Brand Text */}
                             <div className="flex flex-col">
-                                <span className="text-2xl md:text-4xl font-bold leading-none text-black">
-                                    Scholar
-                                </span>
-                                <span className="text-2xl md:text-4xl font-bold leading-none text-black">
-                                    Clone
+                                <span className="text-3xl md:text-5xl font-bold leading-none text-black">
+                                    GapsToGrowth
                                 </span>
                             </div>
                         </div>

@@ -14,7 +14,7 @@ export const FOOTER_LINKS = {
         { name: "About Us", href: "/about" },
         { name: "Why We Serve", href: "#" },
         { name: "Changes and Benefits", href: "#" },
-        { name: "Blogs and broachers", href: "#" },
+        { name: "Blog", href: "/blog" },
         { name: "Contact", href: "/contact" },
         { name: "Request a free demo", href: "/contact" },
     ],
@@ -23,7 +23,7 @@ export const FOOTER_LINKS = {
         { name: "About Us", href: "/about" },
         { name: "Products", href: "/products/learning-solutions" }, // Updated from /erpservice
         { name: "Services", href: "/services" },
-        { name: "Resources & Blogs", href: "#" },
+        { name: "Blog", href: "/blog" },
         { name: "Contact", href: "/contact" },
         { name: "Book Demo", href: "/contact" },
     ],
@@ -32,7 +32,7 @@ export const FOOTER_LINKS = {
         { name: "About Us", href: "/about" },
         { name: "Products", href: "/products/learning-solutions/learning-management" }, // Updated from /lmsservice
         { name: "Services", href: "/services" },
-        { name: "Resources & Blogs", href: "#" },
+        { name: "Blog", href: "/blog" },
         { name: "Contact", href: "/contact" },
         { name: "Book Demo", href: "/contact" },
     ],
@@ -41,7 +41,7 @@ export const FOOTER_LINKS = {
         { name: "About Us", href: "/about" },
         { name: "Products", href: "/products/talent-solutions" }, // Updated from /commservice
         { name: "Services", href: "/services" },
-        { name: "Resources & Blogs", href: "#" },
+        { name: "Blog", href: "/blog" },
         { name: "Contact", href: "/contact" },
         { name: "Book Demo", href: "/contact" },
     ],
@@ -73,7 +73,7 @@ export const PARTNERS_DATA = [
         id: 4,
         category: "Sales",
         title: "Channel Partners",
-        description: "Collaborating to expand Scholar Clone's reach and impact globally.",
+        description: "Collaborating to expand GapsToGrowth's reach and impact globally.",
         image: "/assets/partner_channel.png"
     },
     // Repeats
@@ -102,7 +102,7 @@ export const PARTNERS_DATA = [
         id: 8,
         category: "Sales",
         title: "Channel Partners",
-        description: "Collaborating to expand Scholar Clone's reach and impact globally.",
+        description: "Collaborating to expand GapsToGrowth's reach and impact globally.",
         image: "/assets/partner_channel.png"
     }
 ];

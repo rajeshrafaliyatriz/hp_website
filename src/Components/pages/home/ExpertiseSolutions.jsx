@@ -30,10 +30,10 @@ function ExpertiseSolutions() {
         <div className="flex flex-col items-start w-full font-semibold max-md:mt-10 max-md:max-w-full">
           <ExpertiseHeader />
           <h2 className="mt-6 lg:text-5xl sm:text-2xl font-bold leading-[48px] text-black max-md:max-w-full max-md:text-4xl max-md:leading-[57px]">
-            Uncover Scholar Clone&rsquo;s 4 Power-Packed Solutions
+            Uncover GapsToGrowth&rsquo;s 4 Power-Packed Solutions
           </h2>
           <p className="self-stretch mt-3 text-sm font-medium leading-9 text-black max-md:max-w-full">
-            At Scholar Clone, we believe in blending technology with innovation
+            At GapsToGrowth, we believe in blending technology with innovation
             to revolutionize workforce management. Our solution is built to
             cater to businesses of every size, helping them optimize talent,
             embrace continuous learning, and achieve operational excellence.

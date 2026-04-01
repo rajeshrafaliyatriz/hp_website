@@ -37,7 +37,7 @@ export default function VehicleTrackingBenefits() {
                                     A GPS device is installed on school buses to provide live location updates.
                                 </li>
                                 <li>
-                                    Vehicles are monitored through the Scholar Clone ERP dashboard.
+                                    Vehicles are monitored through the GapsToGrowth ERP dashboard.
                                 </li>
                             </ul>
                         </div>

@@ -27,7 +27,7 @@ const SolutionCard1 = () => {
               Solution For K-12
             </div>
             <div className="mt-10 text-xl font-bold text-black max-md:max-w-full font-roboto text-justify leading-relaxed">
-              Scholar Clone redefines K-12 education with its all-in-one
+              GapsToGrowth redefines K-12 education with its all-in-one
               future-ready solution, blending AI-powered automation, seamless
               school management, and personalized learning. From dynamic
               timetable creation to psychometric career guidance, interactive

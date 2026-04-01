@@ -3,14 +3,14 @@ import ProductComponent from '@/Components/pages/products/finance-hr/compliance-
 
 export const metadata = {
     title: "Compliance Management | Finance & HR Solutions",
-    description: "Ensure regulatory compliance and manage risk effectively with Scholar Clone's Compliance Management tools.",
-    keywords: ["Compliance Management", "Risk Management", "HR Compliance", "Scholar Clone"],
+    description: "Ensure regulatory compliance and manage risk effectively with GapsToGrowth's Compliance Management tools.",
+    keywords: ["Compliance Management", "Risk Management", "HR Compliance", "GapsToGrowth"],
     alternates: {
         canonical: '/products/finance-hr/compliance-management',
     },
     openGraph: {
-        title: "Compliance Management | Finance & HR Solutions | Scholar Clone",
-        description: "Ensure regulatory compliance and manage risk effectively with Scholar Clone's Compliance Management tools.",
+        title: "Compliance Management | Finance & HR Solutions | GapsToGrowth",
+        description: "Ensure regulatory compliance and manage risk effectively with GapsToGrowth's Compliance Management tools.",
     }
 };
 

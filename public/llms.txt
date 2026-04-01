@@ -1,12 +1,12 @@
-# ScholarClone HP
+# GapsToGrowth HP
 
-ScholarClone HP is a comprehensive, AI-powered University Management System and Educational ERP platform designed to modernize operations for K-12 schools, Higher Education Institutions (HEIs), and Corporates in Himachal Pradesh and beyond. We provide a unified ecosystem for Talent Management, Learning & Development, Finance & HR, and Analytics.
+GapsToGrowth HP is a comprehensive, AI-powered University Management System and Educational ERP platform designed to modernize operations for K-12 schools, Higher Education Institutions (HEIs), and Corporates in Himachal Pradesh and beyond. We provide a unified ecosystem for Talent Management, Learning & Development, Finance & HR, and Analytics.
 
 ## User Persona & Use Cases
 
 ### For Higher Education Institutions (Universities & Colleges)
 - **Problem:** Fragmented systems for student lifecycles, faculty management, and accreditation compliance.
-- **Solution:** ScholarClone integrates LMS, SIS (Student Information System), and HRMS into one platform.
+- **Solution:** GapsToGrowth integrates LMS, SIS (Student Information System), and HRMS into one platform.
 - **Key Features:**
   - Automated admission and enrollment workflows.
   - outcome-based education (OBE) compliance tracking.
@@ -63,10 +63,10 @@ ScholarClone HP is a comprehensive, AI-powered University Management System and 
 - **Scalability:** Cloud-native architecture that grows with your institution.
 
 ## Key Links
-- **Home:** https://hp.scholarclone.com/
-- **About Us:** https://hp.scholarclone.com/about
-- **Contact:** https://hp.scholarclone.com/contact
-- **Services:** https://hp.scholarclone.com/services
-- **Talent Solutions:** https://hp.scholarclone.com/products/talent-solutions
-- **Learning Solutions:** https://hp.scholarclone.com/products/learning-solutions
+- **Home:** https://hp.gapstogrowth.com/
+- **About Us:** https://hp.gapstogrowth.com/about
+- **Contact:** https://hp.gapstogrowth.com/contact
+- **Services:** https://hp.gapstogrowth.com/services
+- **Talent Solutions:** https://hp.gapstogrowth.com/products/talent-solutions
+- **Learning Solutions:** https://hp.gapstogrowth.com/products/learning-solutions
 

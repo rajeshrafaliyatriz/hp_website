@@ -2,14 +2,14 @@ import ProductComponent from '@/Components/pages/products/finance-hr/leave-manag
 
 export const metadata = {
   title: "Leave Management | Finance & HR Solutions",
-  description: "Streamline leave requests and approval workflows with Scholar Clone's Leave Management system.",
-  keywords: ["Leave Management", "Employee Leave", "HR Automation", "Scholar Clone"],
+  description: "Streamline leave requests and approval workflows with GapsToGrowth's Leave Management system.",
+  keywords: ["Leave Management", "Employee Leave", "HR Automation", "GapsToGrowth"],
   alternates: {
     canonical: '/products/finance-hr/leave-management',
   },
   openGraph: {
-    title: "Leave Management | Finance & HR Solutions | Scholar Clone",
-    description: "Streamline leave requests and approval workflows with Scholar Clone's Leave Management system.",
+    title: "Leave Management | Finance & HR Solutions | GapsToGrowth",
+    description: "Streamline leave requests and approval workflows with GapsToGrowth's Leave Management system.",
   }
 };
 

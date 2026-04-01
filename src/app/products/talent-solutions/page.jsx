@@ -2,11 +2,11 @@ import TalentContent from "./TalentContent";
 import SchemaComponent from "@/Components/seo/SchemaComponent";
 
 export const metadata = {
-    title: "Talent Solutions | AI-Powered HR & Recruitment | ScholarClone HP",
-    description: "Transform your workforce with ScholarClone's AI-driven Talent Solutions. Features Smart Hiring, Competency Matrix, and Skill Management for modern institutions.",
+    title: "Talent Solutions | AI-Powered HR & Recruitment | GapsToGrowth HP",
+    description: "Transform your workforce with GapsToGrowth's AI-driven Talent Solutions. Features Smart Hiring, Competency Matrix, and Skill Management for modern institutions.",
     keywords: ["Talent Management System", "AI Recruitment", "HRMS Himachal", "Skill Management Software", "Competency Mapping Tool"],
     alternates: {
-        canonical: 'https://hp.scholarclone.com/products/talent-solutions',
+        canonical: 'https://hp.gapstogrowth.com/products/talent-solutions',
     },
 };
 
@@ -15,10 +15,10 @@ const faqSchema = {
     "@type": "FAQPage",
     "mainEntity": [{
         "@type": "Question",
-        "name": "What is ScholarClone Talent Solutions?",
+        "name": "What is GapsToGrowth Talent Solutions?",
         "acceptedAnswer": {
             "@type": "Answer",
-            "text": "ScholarClone Talent Solutions is a comprehensive suite of tools designed to manage the entire employee lifecycle, from AI-driven recruitment to performance enablement and succession planning."
+            "text": "GapsToGrowth Talent Solutions is a comprehensive suite of tools designed to manage the entire employee lifecycle, from AI-driven recruitment to performance enablement and succession planning."
         }
     }, {
         "@type": "Question",

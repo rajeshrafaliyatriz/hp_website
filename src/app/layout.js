@@ -16,38 +16,38 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  metadataBase: new URL('https://hp.scholarclone.com'),
+  metadataBase: new URL('https://hp.gapstogrowth.com'),
   title: {
-    default: "ScholarClone HP | Leading AI-Powered University Management System",
-    template: "%s | ScholarClone HP"
+    default: "GapsToGrowth HP | Leading AI-Powered University Management System",
+    template: "%s | GapsToGrowth HP"
   },
-  description: "ScholarClone HP offers comprehensive AI-powered solutions for talent management, learning, finance, and HR. Empower your institution with our unified platform.",
-  keywords: ["University Management System", "AI Education Platform", "Talent Management", "LMS", "HRIS", "ScholarClone", "Himachal Pradesh"],
+  description: "GapsToGrowth HP offers comprehensive AI-powered solutions for talent management, learning, finance, and HR. Empower your institution with our unified platform.",
+  keywords: ["University Management System", "AI Education Platform", "Talent Management", "LMS", "HRIS", "GapsToGrowth", "Himachal Pradesh"],
   openGraph: {
-    title: 'ScholarClone HP | AI-Powered University Management',
-    description: 'Unified solutions for Talent, Learning, Finance & HR. Transform your educational institution with ScholarClone.',
-    url: 'https://hp.scholarclone.com',
-    siteName: 'ScholarClone HP',
+    title: 'GapsToGrowth HP | AI-Powered University Management',
+    description: 'Unified solutions for Talent, Learning, Finance & HR. Transform your educational institution with GapsToGrowth.',
+    url: 'https://hp.gapstogrowth.com',
+    siteName: 'GapsToGrowth HP',
     locale: 'en_US',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'ScholarClone HP | AI-Powered University Management',
-    description: 'Unified solutions for Talent, Learning, Finance & HR. Transform your educational institution with ScholarClone.',
+    title: 'GapsToGrowth HP | AI-Powered University Management',
+    description: 'Unified solutions for Talent, Learning, Finance & HR. Transform your educational institution with GapsToGrowth.',
   },
   icons: {
-    icon: '/assets/Logo.png',
+    icon: '/assets/Logo.png?v=v2',
   },
 };
 
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
-  name: 'ScholarClone HP',
-  url: 'https://hp.scholarclone.com',
-  logo: 'https://hp.scholarclone.com/assets/Logo.png',
-  description: 'ScholarClone HP provides AI-powered unified solutions for Talent Management, Learning & Development, Finance & HR, Integration, and Analytics.',
+  name: 'GapsToGrowth HP',
+  url: 'https://hp.gapstogrowth.com',
+  logo: 'https://hp.gapstogrowth.com/assets/Logo.png?v=v2',
+  description: 'GapsToGrowth HP provides AI-powered unified solutions for Talent Management, Learning & Development, Finance & HR, Integration, and Analytics.',
   contactPoint: {
     '@type': 'ContactPoint',
     telephone: '+91-1234567890', // Replace with actual number if available
@@ -56,9 +56,9 @@ const jsonLd = {
     availableLanguage: 'en'
   },
   sameAs: [
-    'https://www.linkedin.com/company/scholarclone',
-    'https://twitter.com/scholarclone',
-    'https://www.facebook.com/scholarclone'
+    'https://www.linkedin.com/company/gapstogrowth',
+    'https://twitter.com/gapstogrowth',
+    'https://www.facebook.com/gapstogrowth'
     // Add other social profiles here
   ]
 };
@@ -75,7 +75,7 @@ export default function RootLayout({ children }) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
         <Navbar />
-        <main className="pt-20">
+        <main className="pt-24">
           {children}
         </main>
         <Footer />

@@ -2,14 +2,14 @@ import ProductComponent from '@/Components/pages/products/learning-solutions/lea
 
 export const metadata = {
   title: "Learning Paths | Learning Solutions",
-  description: "Curate personalized learning journeys for your employees with Scholar Clone's Learning Paths.",
-  keywords: ["Learning Paths", "Personalized Learning", "Employee Development", "Scholar Clone"],
+  description: "Curate personalized learning journeys for your employees with GapsToGrowth's Learning Paths.",
+  keywords: ["Learning Paths", "Personalized Learning", "Employee Development", "GapsToGrowth"],
   alternates: {
     canonical: '/products/learning-solutions/learning-paths',
   },
   openGraph: {
-    title: "Learning Paths | Learning Solutions | Scholar Clone",
-    description: "Curate personalized learning journeys for your employees with Scholar Clone's Learning Paths.",
+    title: "Learning Paths | Learning Solutions | GapsToGrowth",
+    description: "Curate personalized learning journeys for your employees with GapsToGrowth's Learning Paths.",
   }
 };
 

@@ -24,7 +24,7 @@ export default function CareerIntro() {
                         </h2>
                         <div className="space-y-4 text-black text-lg leading-relaxed">
                             <p>
-                                At Scholar Clone, we are redefining education with cutting-edge
+                                At GapsToGrowth, we are redefining education with cutting-edge
                                 technology, AI-driven learning, and school management solutions that
                                 empower students, educators, and institutions.
                             </p>
