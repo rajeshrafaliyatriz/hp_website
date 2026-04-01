@@ -7,7 +7,9 @@ function ImageContainer() {
         <img
           loading="lazy"
           src="https://cdn.builder.io/api/v1/image/assets/TEMP/f1106991607fa4cf2ad610b334d10eb6c51a5cefda06d0855272dc0522f7d469?placeholderIfAbsent=true&apiKey=f18a54c668db405eb048e2b0a7685d39"
-          alt="GapsToGrowth's solutions illustration"
+          alt="Scholar Clone's solutions illustration"
+          width="400"
+          height="400"
           className="object-contain w-full aspect-square rounded-[35px_4px_35px_4px] shadow-[4px_4px_50px_rgba(5,58,58,0.06)] max-md:max-w-full"
         />
       </div>

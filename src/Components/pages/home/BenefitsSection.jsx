@@ -4,19 +4,19 @@ import BenefitCard from "./BenefitCard";
 const benefitsData = [
   {
     icon: "https://cdn.builder.io/api/v1/image/assets/f18a54c668db405eb048e2b0a7685d39/2cc478e762f0bcd3cf576147797b0aa9e7f2576cc14cfade69a0bf9eec6a4f46?apiKey=f18a54c668db405eb048e2b0a7685d39&",
-    title: "Seamless Talent Optimization",
+    title: "Talent Management",
   },
   {
     icon: "https://cdn.builder.io/api/v1/image/assets/f18a54c668db405eb048e2b0a7685d39/439aaff18aa89e740e4704af67dfa8373f37abe4edb6411bbe07146d450d8293?apiKey=f18a54c668db405eb048e2b0a7685d39&",
-    title: "Future-Proof Workforce Development",
+    title: "Workforce Development",
   },
   {
     icon: "https://cdn.builder.io/api/v1/image/assets/f18a54c668db405eb048e2b0a7685d39/aaba1b26e599ba673e392f30cf8bce999b9ec0d3947691bfc3f5e1574b91a661?apiKey=f18a54c668db405eb048e2b0a7685d39&",
-    title: "Data-Driven Decisions, Powered by AI",
+    title: "Learning Analytics",
   },
   {
     icon: "https://cdn.builder.io/api/v1/image/assets/f18a54c668db405eb048e2b0a7685d39/2caa60ba3d365fcbf579d3e2dc189366200a6b02ec782699f23620a6e053caa4?apiKey=f18a54c668db405eb048e2b0a7685d39&",
-    title: "Automation for Excellence",
+    title: "Process Automation",
   },
 ];
 
@@ -29,6 +29,8 @@ function BenefitsSection() {
             <img
               loading="lazy"
               src="https://cdn.builder.io/api/v1/image/assets/f18a54c668db405eb048e2b0a7685d39/d29c57c1e86895fd15a3684cd45a32df6812c8921a9448ea565a6bbd72493431?apiKey=f18a54c668db405eb048e2b0a7685d39&"
+              width="400"
+              height="412"
               className="object-contain w-full aspect-[0.97] rounded-[35px_4px_35px_4px] shadow-[4px_4px_50px_rgba(5,58,58,0.06)] max-md:max-w-full"
               alt="Innovative workforce solutions"
             />
@@ -43,13 +45,10 @@ function BenefitsSection() {
               <div className="shrink-0 my-auto w-24 h-0.5 border-2 border-sky-900 border-solid" />
             </div>
             <div className="self-stretch mt-6 lg:mr-7 lg:text-4xl sm:text-2xl font-bold leading-[42px] text-black lg:max-md:mr-2.5 lg:max-md:max-w-full max-md:text-4xl lg:max-md:leading-[53px]">
-              Innovation Meets Potential:<br /> Redefining Empowerment <br />for a Limitless
-              Workforce.
+              Why Educational Institutions Choose ScholarClone
             </div>
             <div className="mt-8 text-1xl font-medium lg:leading-7 text-black max-md:max-w-full">
-              Ignite Workforce Evolution with our groundbreaking HRTech<br />
-              platform crafted to drive growth, precision, and unmatched<br />
-              excellence at every interaction.
+              Streamline operations, improve student outcomes, and prepare for accreditation with our proven ERP platform.
             </div>
             <div className="grid grid-cols-2 gap-0 mt-8  items-start self-stretch mt-2 max-md:max-w-full">
               {benefitsData.map((benefit, index) => (
