@@ -133,7 +133,7 @@ import { useRouter } from "next/router";
 import Service from './ServicesSection';
 const HERO_BUTTONS = [
   { text: "Get a free Demo Now!", bgColor: 'rgb(255, 255, 255)', color: 'rgb(0, 0, 0)' },
-  //{ text: "Explore Scholar Clone", bgColor: 'rgb(255, 255, 255)' , color: 'rgb(0, 0, 0)' }
+  //{ text: "Explore GapsToGrowth", bgColor: 'rgb(255, 255, 255)' , color: 'rgb(0, 0, 0)' }
 ];
 function ImageComponent() {
   const router = useRouter();
@@ -231,7 +231,7 @@ function ImageComponent() {
       <h2 className="lg:mt-40 sm:mt-5 lg:px-40 text-center font-inter lg:text-4xl sm:text-2xl" style={{
         color: 'rgba(17, 134, 254, 1)'
       }}>
-        Scholar Clone in Your Pocket Mobile Apps for Everyone
+        GapsToGrowth in Your Pocket Mobile Apps for Everyone
       </h2>
       <Service />
     </div>

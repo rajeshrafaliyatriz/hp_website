@@ -3,14 +3,14 @@ import ProductComponent from '@/Components/pages/products/talent-solutions/growt
 
 export const metadata = {
     title: "Growth Predictor | Talent Solutions",
-    description: "Predict future workforce trends and needs with Scholar Clone's AI-powered Growth Predictor.",
-    keywords: ["Growth Predictor", "Workforce Forecasting", "AI HR", "Scholar Clone"],
+    description: "Predict future workforce trends and needs with GapsToGrowth's AI-powered Growth Predictor.",
+    keywords: ["Growth Predictor", "Workforce Forecasting", "AI HR", "GapsToGrowth"],
     alternates: {
         canonical: '/products/talent-solutions/growth-predictor',
     },
     openGraph: {
-        title: "Growth Predictor | Talent Solutions | Scholar Clone",
-        description: "Predict future workforce trends and needs with Scholar Clone's AI-powered Growth Predictor.",
+        title: "Growth Predictor | Talent Solutions | GapsToGrowth",
+        description: "Predict future workforce trends and needs with GapsToGrowth's AI-powered Growth Predictor.",
     }
 };
 

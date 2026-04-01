@@ -221,7 +221,7 @@ const LearningContent = () => {
                                     Transform Your Organization into a Learning Powerhouse
                                 </h2>
                                 <p className="text-lg text-slate-600 leading-relaxed mb-6">
-                                    Scholar Clone's Learning Solutions is a comprehensive learning management ecosystem designed to cultivate knowledge, develop skills, and drive organizational excellence through continuous education.
+                                    GapsToGrowth's Learning Solutions is a comprehensive learning management ecosystem designed to cultivate knowledge, develop skills, and drive organizational excellence through continuous education.
                                 </p>
                                 <p className="text-lg text-slate-600 leading-relaxed mb-8">
                                     From interactive e-learning modules and personalized learning paths to mobile-first experiences and workforce planning, our platform empowers employees to learn anytime, anywhere, while giving leaders the insights they need to build a future-ready workforce.

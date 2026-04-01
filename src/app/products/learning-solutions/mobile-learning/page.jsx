@@ -2,14 +2,14 @@ import ProductComponent from '@/Components/pages/products/learning-solutions/mob
 
 export const metadata = {
   title: "Mobile Learning | Learning Solutions",
-  description: "Empower your workforce with on-the-go learning accessible from any device with Scholar Clone.",
-  keywords: ["Mobile Learning", "mLearning", "Remote Training", "Scholar Clone"],
+  description: "Empower your workforce with on-the-go learning accessible from any device with GapsToGrowth.",
+  keywords: ["Mobile Learning", "mLearning", "Remote Training", "GapsToGrowth"],
   alternates: {
     canonical: '/products/learning-solutions/mobile-learning',
   },
   openGraph: {
-    title: "Mobile Learning | Learning Solutions | Scholar Clone",
-    description: "Empower your workforce with on-the-go learning accessible from any device with Scholar Clone.",
+    title: "Mobile Learning | Learning Solutions | GapsToGrowth",
+    description: "Empower your workforce with on-the-go learning accessible from any device with GapsToGrowth.",
   }
 };
 

@@ -93,7 +93,7 @@ function Home() {
                 {/* Above-the-fold: No animation delay for LCP */}
                 <ElevateWorkforce />
                 <Image />
-                
+
                 {/* Below-the-fold: Lazy loaded sections */}
                 <ScrollAnimationWrapper effect="fadeUp" delay={0.3}><SeoWhatIs /></ScrollAnimationWrapper>
                 <ScrollAnimationWrapper effect="fadeRight" delay={0.5}><ExpertiseSolutions /></ScrollAnimationWrapper>
@@ -115,14 +115,14 @@ function Home() {
                             Find answers to more frequently asked questions about our <Link href="/services" className="text-sky-600 hover:text-sky-800 underline">Education ERP services</Link>, or learn more about <Link href="/about" className="text-sky-600 hover:text-sky-800 underline">our company</Link>.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
-                            <Link 
-                                href="/faq" 
+                            <Link
+                                href="/faq"
                                 className="inline-block px-8 py-3 bg-sky-600 hover:bg-sky-700 text-white font-semibold rounded-full transition"
                             >
                                 View All FAQs
                             </Link>
-                            <Link 
-                                href="/contact" 
+                            <Link
+                                href="/contact"
                                 className="inline-block px-8 py-3 bg-white hover:bg-gray-50 text-sky-600 font-semibold rounded-full transition border border-sky-600"
                             >
                                 Contact Our Team

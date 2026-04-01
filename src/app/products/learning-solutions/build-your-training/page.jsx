@@ -3,14 +3,14 @@ import ProductComponent from '@/Components/pages/products/learning-solutions/bui
 
 export const metadata = {
     title: "Build Your Training | Learning Solutions",
-    description: "Create custom training programs tailored to your organization's needs with Scholar Clone.",
-    keywords: ["Custom Training", "Course Builder", "Instructional Design", "Scholar Clone"],
+    description: "Create custom training programs tailored to your organization's needs with GapsToGrowth.",
+    keywords: ["Custom Training", "Course Builder", "Instructional Design", "GapsToGrowth"],
     alternates: {
         canonical: '/products/learning-solutions/build-your-training',
     },
     openGraph: {
-        title: "Build Your Training | Learning Solutions | Scholar Clone",
-        description: "Create custom training programs tailored to your organization's needs with Scholar Clone.",
+        title: "Build Your Training | Learning Solutions | GapsToGrowth",
+        description: "Create custom training programs tailored to your organization's needs with GapsToGrowth.",
     }
 };
 

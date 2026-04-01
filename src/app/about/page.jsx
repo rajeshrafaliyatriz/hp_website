@@ -43,7 +43,7 @@ export default function AboutPage() {
       <AboutHero />
       <WhatWeDo />
       <SuccessJourney />
-      
+
       {/* CTA Section */}
       <section className="py-12 bg-sky-600">
         <div className="max-w-4xl mx-auto px-6 text-center">

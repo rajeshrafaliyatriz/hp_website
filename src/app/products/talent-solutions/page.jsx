@@ -8,7 +8,7 @@ export const metadata = {
     description: "Transform your workforce with ScholarClone's AI-driven Talent Solutions. Features Smart Hiring Engine, Competency Matrix, Skill Management, and Performance Enablement for universities, schools, and corporates in Himachal Pradesh.",
     keywords: [
         "Talent Management System",
-        "AI Recruitment Software", 
+        "AI Recruitment Software",
         "HRMS Software",
         "HRMS Himachal Pradesh",
         "Skill Management Software",
@@ -128,7 +128,7 @@ const TalentSolutionsPage = () => {
             <SchemaComponent data={productSchema} />
             <SchemaComponent data={breadcrumbSchema} />
             <TalentContent />
-            
+
             {/* Related Solutions Section */}
             <section className="py-16 bg-slate-50">
                 <div className="max-w-6xl mx-auto px-6">

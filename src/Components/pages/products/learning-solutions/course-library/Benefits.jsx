@@ -44,7 +44,7 @@ export default function Index() {
             <div className="order-1 lg:order-2 text-white text-center lg:text-left">
               {/* Main Heading */}
               <h2 className="font-prompt text-2xl sm:text-3xl md:text-4xl lg:text-[42px] xl:text-[50px] font-normal leading-[1.1] mb-8 md:mb-10 lg:mb-12 max-w-[690px]">
-                Why Choose Scholar Clone&apos;s Course Library?
+                Why Choose GapsToGrowth&apos;s Course Library?
               </h2>
 
               {/* Benefits Container */}

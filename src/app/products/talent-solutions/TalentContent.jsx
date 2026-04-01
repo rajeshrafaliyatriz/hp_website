@@ -73,7 +73,7 @@ const TalentContent = () => {
                                     <div className="w-8 h-8 bg-white/20 rounded-lg flex items-center justify-center">
                                         <Users className="w-4 h-4 text-white" />
                                     </div>
-                                    <span className="text-white font-bold text-lg hidden md:block">Scholar Clone HR</span>
+                                    <span className="text-white font-bold text-lg hidden md:block">GapsToGrowth HR</span>
                                 </div>
                                 <nav className="hidden lg:flex items-center gap-6 ml-8">
                                     <span className="text-white/80 hover:text-white cursor-pointer text-sm font-medium">Dashboard</span>
@@ -318,7 +318,7 @@ const TalentContent = () => {
                                     The Complete Platform for Modern Workforce Management
                                 </h2>
                                 <p className="text-lg text-slate-600 leading-relaxed mb-6">
-                                    Scholar Clone's Talent Solutions is an end-to-end human capital management platform designed to transform how organizations attract, develop, and retain their most valuable asset — their people.
+                                    GapsToGrowth's Talent Solutions is an end-to-end human capital management platform designed to transform how organizations attract, develop, and retain their most valuable asset — their people.
                                 </p>
                                 <p className="text-lg text-slate-600 leading-relaxed mb-8">
                                     From AI-powered recruitment that identifies the best candidates faster, to comprehensive performance management that keeps your teams aligned with business goals, our platform provides the tools you need to build a thriving, engaged workforce. Whether you're a growing startup or a global enterprise, Talent Solutions scales with your ambitions.
@@ -382,7 +382,7 @@ const TalentContent = () => {
             <section className="py-24 bg-slate-50 relative">
                 <div className="w-full max-w-7xl mx-auto px-4">
                     <div className="text-center max-w-3xl mx-auto mb-20">
-                        <span className="text-[#2A3E5C] font-bold tracking-widest uppercase text-sm mb-4 block">Why Scholar Clone</span>
+                        <span className="text-[#2A3E5C] font-bold tracking-widest uppercase text-sm mb-4 block">Why GapsToGrowth</span>
                         <h2 className="text-3xl md:text-5xl font-bold text-slate-900 mb-6 tracking-tight">Reimagine Your Talent Strategy</h2>
                         <p className="text-lg text-slate-600 leading-relaxed">
                             Move beyond spreadsheets and disconnected systems. Our comprehensive suite covers every stage of the employee lifecycle.
@@ -470,7 +470,7 @@ const TalentContent = () => {
                         </div>
 
                         <blockquote className="text-2xl md:text-4xl text-slate-800 font-medium leading-relaxed mb-8">
-                            "Scholar Clone transformed how we approach talent management. Our hiring velocity increased by 45% and employee engagement scores are at an all-time high."
+                            "GapsToGrowth transformed how we approach talent management. Our hiring velocity increased by 45% and employee engagement scores are at an all-time high."
                         </blockquote>
 
                         <div className="flex items-center justify-center gap-4">
@@ -515,7 +515,7 @@ const TalentContent = () => {
                                 Ready to build your <br />dream team?
                             </h2>
                             <p className="text-blue-100 text-xl mb-10 leading-relaxed">
-                                Join 500+ forward-thinking organizations transforming their workforce and culture with Scholar Clone.
+                                Join 500+ forward-thinking organizations transforming their workforce and culture with GapsToGrowth.
                             </p>
 
                             <div className="flex flex-col sm:flex-row flex-wrap justify-center gap-4">

@@ -1,4 +1,4 @@
-# ScholarClone HP
+# GapsToGrowth HP
 
 ScholarClone HP is an AI-powered Education ERP (Enterprise Resource Planning) platform designed for educational institutions in India, with a focus on Himachal Pradesh.
 

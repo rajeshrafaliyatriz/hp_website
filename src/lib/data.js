@@ -73,7 +73,7 @@ export const PARTNERS_DATA = [
         id: 4,
         category: "Sales",
         title: "Channel Partners",
-        description: "Collaborating to expand Scholar Clone's reach and impact globally.",
+        description: "Collaborating to expand GapsToGrowth's reach and impact globally.",
         image: "/assets/partner_channel.png"
     },
     // Repeats
@@ -102,7 +102,7 @@ export const PARTNERS_DATA = [
         id: 8,
         category: "Sales",
         title: "Channel Partners",
-        description: "Collaborating to expand Scholar Clone's reach and impact globally.",
+        description: "Collaborating to expand GapsToGrowth's reach and impact globally.",
         image: "/assets/partner_channel.png"
     }
 ];

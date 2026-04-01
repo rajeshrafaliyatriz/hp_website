@@ -178,7 +178,7 @@ export default function RootLayout({ children }) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
         <Navbar />
-        <main className="pt-20">
+        <main className="pt-24">
           {children}
         </main>
         <Footer />

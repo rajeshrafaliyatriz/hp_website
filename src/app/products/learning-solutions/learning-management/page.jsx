@@ -2,14 +2,14 @@ import ProductComponent from '@/Components/pages/products/learning-solutions/lea
 
 export const metadata = {
   title: "Learning Management System (LMS) | Learning Solutions",
-  description: "Deliver, track, and manage training with Scholar Clone's robust Learning Management System.",
-  keywords: ["LMS", "Learning Management", "Corporate Training", "Scholar Clone"],
+  description: "Deliver, track, and manage training with GapsToGrowth's robust Learning Management System.",
+  keywords: ["LMS", "Learning Management", "Corporate Training", "GapsToGrowth"],
   alternates: {
     canonical: '/products/learning-solutions/learning-management',
   },
   openGraph: {
-    title: "Learning Management System (LMS) | Learning Solutions | Scholar Clone",
-    description: "Deliver, track, and manage training with Scholar Clone's robust Learning Management System.",
+    title: "Learning Management System (LMS) | Learning Solutions | GapsToGrowth",
+    description: "Deliver, track, and manage training with GapsToGrowth's robust Learning Management System.",
   }
 };
 

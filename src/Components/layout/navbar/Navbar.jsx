@@ -221,22 +221,15 @@ export function Navbar() {
 
   return (
     <header className="fixed top-0 left-0 z-50 w-full bg-[#2A3E5C] text-white shadow-[0_8px_10px_0px_rgba(42,62,92,0.5)]">
-      <nav className="mx-auto w-full max-w-[1920px] flex h-20 items-center justify-between px-4 lg:px-10" aria-label="Global">
+      <nav className="mx-auto w-full max-w-[1920px] flex h-24 items-center justify-between px-4 lg:px-10" aria-label="Global">
         <div className="flex flex-none">
-          <Link href="/" className="-m-1.5 p-1.5 flex items-center gap-3 group">
+          <Link href="/" className="-m-1.5 p-1.5 flex items-center group">
             <img
-              src="/assets/Logo.png"
-              alt="Scholar Clone Logo"
-              className="h-12 w-auto"
+              src="/assets/Logo.png?v=v2"
+              alt="GapsToGrowth Logo"
+              className="h-28 md:h-36 w-auto transition-all duration-300 hover:scale-105"
+              style={{ filter: "drop-shadow(1px 1px 0 #fff) drop-shadow(-1px -1px 0 #fff) drop-shadow(1px -1px 0 #fff) drop-shadow(-1px 1px 0 #fff) drop-shadow(0px 0px 8px rgba(255,255,255,1))" }}
             />
-            <div className="flex flex-col">
-              <span className="text-xl font-bold leading-none text-white">
-                Scholar
-              </span>
-              <span className="text-xl font-bold leading-none text-white">
-                Clone
-              </span>
-            </div>
           </Link>
         </div>
 
@@ -284,7 +277,7 @@ export function Navbar() {
 
                   {/* Products Dropdown - Centered on Screen */}
                   {productsDropdownOpen && (
-                    <div className="fixed top-20 left-1/2 -translate-x-1/2 w-[90vw] max-w-[1200px] z-50">
+                    <div className="fixed top-24 left-1/2 -translate-x-1/2 w-[90vw] max-w-[1200px] z-50">
                       <ProductsDropdown />
                     </div>
                   )}
@@ -344,7 +337,7 @@ export function Navbar() {
       {/* Mobile Menu */}
       <div
         className={cn(
-          "lg:hidden fixed inset-x-0 top-20 z-50 bg-[#2A3E5C] border-t border-slate-700 shadow-lg transition-all duration-300 ease-in-out origin-top overflow-y-auto max-h-[calc(100dvh-5rem)]",
+          "lg:hidden fixed inset-x-0 top-24 z-50 bg-[#2A3E5C] border-t border-slate-700 shadow-lg transition-all duration-300 ease-in-out origin-top overflow-y-auto max-h-[calc(100dvh-6rem)]",
           mobileMenuOpen ? "scale-y-100 opacity-100" : "scale-y-0 opacity-0"
         )}
       >

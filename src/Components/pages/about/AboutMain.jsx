@@ -34,7 +34,7 @@ const AboutMain = () => {
           <div className="md:w-1/2 flex justify-center mb-6 md:mb-0">
             <img
               src="/about_images/image1.png" // Save your logo image as logo.png in the public folder
-              alt="Scholar Clone Logo"
+              alt="GapsToGrowth Logo"
               width={400} // Adjust width to match your design
               height={400} // Adjust height to match your design
               className="rounded-lg"
@@ -42,7 +42,7 @@ const AboutMain = () => {
           </div>
           <div className="md:w-1/2 md:pl-6 text-center md:text-left">
             <p className="text-black">
-              Founded in 2010, Scholar Clone has been a pioneering force in transforming technology for education and corporate sectors. Specializes in software solutions for the education and training sectors. It provides next-generation education solutions for schools, colleges, universities, SMEs, and corporate clients, both in India and globally. Our advanced solutions, including automated Learning Management Systems (LMS), cover everything from lesion creation to performance management, enhancing learning experiences and optimizing operational efficiency. Committed to driving growth and innovation, we deliver technology that accelerates success use this for above request          </p>
+              Founded in 2010, GapsToGrowth has been a pioneering force in transforming technology for education and corporate sectors. Specializes in software solutions for the education and training sectors. It provides next-generation education solutions for schools, colleges, universities, SMEs, and corporate clients, both in India and globally. Our advanced solutions, including automated Learning Management Systems (LMS), cover everything from lesion creation to performance management, enhancing learning experiences and optimizing operational efficiency. Committed to driving growth and innovation, we deliver technology that accelerates success use this for above request          </p>
           </div>
         </div>
       </div>

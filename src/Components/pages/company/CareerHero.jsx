@@ -7,7 +7,7 @@ export default function CareerHero() {
             <div className="absolute inset-0 z-0">
                 <Image
                     src="/assets/Hero_Partners.png"
-                    alt="Careers at Scholar Clone"
+                    alt="Careers at GapsToGrowth"
                     fill
                     className="object-cover"
                     priority

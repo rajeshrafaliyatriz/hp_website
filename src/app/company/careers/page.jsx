@@ -7,9 +7,9 @@ import CareerRoles from '@/Components/pages/company/CareerRoles';
 
 export const metadata = {
     title: "Careers",
-    description: "Build the future of education with Scholar Clone. Explore career opportunities, our culture, and benefits. Join our team today.",
+    description: "Build the future of education with GapsToGrowth. Explore career opportunities, our culture, and benefits. Join our team today.",
     openGraph: {
-        title: "Careers at Scholar Clone - Join Our Team",
+        title: "Careers at GapsToGrowth - Join Our Team",
         description: "Join our mission to transform education. View open positions and benefits.",
         images: ['/Images/Hero_Career.png'],
     },

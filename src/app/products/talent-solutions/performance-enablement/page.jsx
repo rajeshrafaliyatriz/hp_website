@@ -2,14 +2,14 @@ import ProductComponent from '@/Components/pages/products/talent-solutions/perfo
 
 export const metadata = {
   title: "Performance Enablement | Talent Solutions",
-  description: "Drive high performance and employee engagement with Scholar Clone's Performance Enablement platform.",
-  keywords: ["Performance Management", "Employee Engagement", "Goal Setting", "Scholar Clone"],
+  description: "Drive high performance and employee engagement with GapsToGrowth's Performance Enablement platform.",
+  keywords: ["Performance Management", "Employee Engagement", "Goal Setting", "GapsToGrowth"],
   alternates: {
     canonical: '/products/talent-solutions/performance-enablement',
   },
   openGraph: {
-    title: "Performance Enablement | Talent Solutions | Scholar Clone",
-    description: "Drive high performance and employee engagement with Scholar Clone's Performance Enablement platform.",
+    title: "Performance Enablement | Talent Solutions | GapsToGrowth",
+    description: "Drive high performance and employee engagement with GapsToGrowth's Performance Enablement platform.",
   }
 };
 

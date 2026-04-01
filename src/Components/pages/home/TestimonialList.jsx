@@ -10,14 +10,14 @@ const testimonials = [
     companyLogo: "https://cdn.builder.io/api/v1/image/assets/TEMP/b8ffc7676fe9fce198f93f396cbfbbd6a55d54d36fcc88fa092e03bc0f8b966b?placeholderIfAbsent=true&apiKey=af5cfb29bb594d4e9f9e505ea3916323"
   },
   {
-    quote: `"The support we received from scholar clone team is extra ordinary as government organization we expect 24x7 support when we work with scholar clone for integrated academic platform for learning out come solutions."`,
+    quote: `"The support we received from gapstogrowth team is extra ordinary as government organization we expect 24x7 support when we work with gapstogrowth for integrated academic platform for learning out come solutions."`,
     author: "Silvassa Government",
     authorImage: "/home_images/clients/2.png",
     ratingImage: "https://cdn.builder.io/api/v1/image/assets/TEMP/93b2b4ce7d0590a7504a3bc2e3c85b655b2e6cb8456deda8ee8b8c2c94afe81d?placeholderIfAbsent=true&apiKey=af5cfb29bb594d4e9f9e505ea3916323",
     companyLogo: "https://cdn.builder.io/api/v1/image/assets/TEMP/b8ffc7676fe9fce198f93f396cbfbbd6a55d54d36fcc88fa092e03bc0f8b966b?placeholderIfAbsent=true&apiKey=af5cfb29bb594d4e9f9e505ea3916323"
   },
   {
-    quote: `"Scholar clone team provide us learning out come, learning objective and learning indicator solutions we deployed this solutions in more than 12000 schools across the state we found state of the art solutions and very good supports from Scholar clone team."`,
+    quote: `"GapsToGrowth team provide us learning out come, learning objective and learning indicator solutions we deployed this solutions in more than 12000 schools across the state we found state of the art solutions and very good supports from GapsToGrowth team."`,
     author: "Gujarat Government",
     authorImage: "/home_images/clients/3.png",
     ratingImage: "https://cdn.builder.io/api/v1/image/assets/TEMP/93b2b4ce7d0590a7504a3bc2e3c85b655b2e6cb8456deda8ee8b8c2c94afe81d?placeholderIfAbsent=true&apiKey=af5cfb29bb594d4e9f9e505ea3916323",
@@ -38,7 +38,7 @@ const testimonials = [
     companyLogo: "https://cdn.builder.io/api/v1/image/assets/TEMP/b8ffc7676fe9fce198f93f396cbfbbd6a55d54d36fcc88fa092e03bc0f8b966b?placeholderIfAbsent=true&apiKey=af5cfb29bb594d4e9f9e505ea3916323"
   },
   {
-    quote: `"We are happy to work with Scholar clone as we improved student learning  in our school, the important part I observed is map and aligned content it save teacher and student time and shift from rote learning to personalized learning through data."`,
+    quote: `"We are happy to work with GapsToGrowth as we improved student learning  in our school, the important part I observed is map and aligned content it save teacher and student time and shift from rote learning to personalized learning through data."`,
     author: "Manisha kerkar",
     authorImage: "/home_images/clients/6.png",
     ratingImage: "https://cdn.builder.io/api/v1/image/assets/TEMP/93b2b4ce7d0590a7504a3bc2e3c85b655b2e6cb8456deda8ee8b8c2c94afe81d?placeholderIfAbsent=true&apiKey=af5cfb29bb594d4e9f9e505ea3916323",

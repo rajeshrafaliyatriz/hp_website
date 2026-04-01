@@ -3,14 +3,14 @@ import ProductComponent from '@/Components/pages/products/learning-solutions/cou
 
 export const metadata = {
     title: "Course Library | Learning Solutions",
-    description: "Access a vast library of pre-built courses covering various industries and skills with Scholar Clone.",
-    keywords: ["Course Library", "eLearning Content", "Training Catalog", "Scholar Clone"],
+    description: "Access a vast library of pre-built courses covering various industries and skills with GapsToGrowth.",
+    keywords: ["Course Library", "eLearning Content", "Training Catalog", "GapsToGrowth"],
     alternates: {
         canonical: '/products/learning-solutions/course-library',
     },
     openGraph: {
-        title: "Course Library | Learning Solutions | Scholar Clone",
-        description: "Access a vast library of pre-built courses covering various industries and skills with Scholar Clone.",
+        title: "Course Library | Learning Solutions | GapsToGrowth",
+        description: "Access a vast library of pre-built courses covering various industries and skills with GapsToGrowth.",
     }
 };
 

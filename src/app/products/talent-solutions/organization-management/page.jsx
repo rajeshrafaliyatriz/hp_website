@@ -2,14 +2,14 @@ import ProductComponent from '@/Components/pages/products/talent-solutions/organ
 
 export const metadata = {
   title: "Organization Management | Talent Solutions",
-  description: "Define organizational structures and roles clearly with Scholar Clone's Organization Management tools.",
-  keywords: ["Organization Management", "Org Chart", "Workforce Structure", "Scholar Clone"],
+  description: "Define organizational structures and roles clearly with GapsToGrowth's Organization Management tools.",
+  keywords: ["Organization Management", "Org Chart", "Workforce Structure", "GapsToGrowth"],
   alternates: {
     canonical: '/products/talent-solutions/organization-management',
   },
   openGraph: {
-    title: "Organization Management | Talent Solutions | Scholar Clone",
-    description: "Define organizational structures and roles clearly with Scholar Clone's Organization Management tools.",
+    title: "Organization Management | Talent Solutions | GapsToGrowth",
+    description: "Define organizational structures and roles clearly with GapsToGrowth's Organization Management tools.",
   }
 };
 

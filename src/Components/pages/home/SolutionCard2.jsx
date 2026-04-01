@@ -1,5 +1,5 @@
 import * as React from "react";
-import  ImageCard  from "./ImageCard";
+import ImageCard from "./ImageCard";
 
 const images = [
   {
@@ -37,10 +37,10 @@ export const SolutionCard2 = () => {
         <div className="flex flex-col ml-5 w-[68%] max-md:ml-0 max-md:w-full">
           <div className="flex flex-col mt-4 w-full max-md:mt-10 max-md:max-w-full">
             <div className="self-start mt-12 text-2xl font-bold text-black font-noto">
-            Solution For Higher Education
+              Solution For Higher Education
             </div>
             <div className="mt-10 text-xl font-bold text-black max-md:max-w-full font-roboto text-justify leading-relaxed">
-            University management system with student lifecycle management, faculty scheduling, examination management, and NAAC/NIRF accreditation support. Includes learning management system with course delivery and progress tracking.
+              University management system with student lifecycle management, faculty scheduling, examination management, and NAAC/NIRF accreditation support. Includes learning management system with course delivery and progress tracking.
             </div>
             <div className="mt-3.5 w-full max-md:mr-1.5 max-md:max-w-full">
               <div className="flex gap-5 max-md:flex-col">
@@ -56,7 +56,7 @@ export const SolutionCard2 = () => {
                       boxShadow: '0 16.67px 33.33px rgba(33, 20, 0, 0.8), 0px -8px 10px rgba(33, 20, 0, 0.5) inset', // Adding inset shadow for bottom side
                       fontFamily: 'merriweather',
                     }}
-                    >
+                  >
                     Know More
                   </a>
                 </div>

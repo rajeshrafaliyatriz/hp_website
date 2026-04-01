@@ -2,14 +2,14 @@ import ProductComponent from '@/Components/pages/products/talent-solutions/skill
 
 export const metadata = {
   title: "Skill Genome Builder | Talent Solutions",
-  description: "Construct a comprehensive skill framework for your organization with Scholar Clone's Skill Genome Builder.",
-  keywords: ["Skill Genome", "Skill Framework", "Competency Mapping", "Scholar Clone"],
+  description: "Construct a comprehensive skill framework for your organization with GapsToGrowth's Skill Genome Builder.",
+  keywords: ["Skill Genome", "Skill Framework", "Competency Mapping", "GapsToGrowth"],
   alternates: {
     canonical: '/products/talent-solutions/skill-genome-builder',
   },
   openGraph: {
-    title: "Skill Genome Builder | Talent Solutions | Scholar Clone",
-    description: "Construct a comprehensive skill framework for your organization with Scholar Clone's Skill Genome Builder.",
+    title: "Skill Genome Builder | Talent Solutions | GapsToGrowth",
+    description: "Construct a comprehensive skill framework for your organization with GapsToGrowth's Skill Genome Builder.",
   }
 };
 

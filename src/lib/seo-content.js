@@ -1,8 +1,8 @@
 
 export const SEO_CONTENT = {
     "talent-management": {
-        title: "Why Choose Scholar Clone for Talent Management?",
-        description: "Scholar Clone's Talent Management system is a comprehensive solution designed to nurture and retain top talent. In today's competitive landscape, managing your workforce effectively is not just about administration; it's about strategic growth. Our platform provides a holistic view of your employee lifecycle, from recruitment to retirement.",
+        title: "Why Choose GapsToGrowth for Talent Management?",
+        description: "GapsToGrowth's Talent Management system is a comprehensive solution designed to nurture and retain top talent. In today's competitive landscape, managing your workforce effectively is not just about administration; it's about strategic growth. Our platform provides a holistic view of your employee lifecycle, from recruitment to retirement.",
         features: [
             "Unified Talent Profile: centralize all employee data.",
             "Performance Tracking: align individual goals with company objectives.",
@@ -99,8 +99,8 @@ export const SEO_CONTENT = {
     "team-analytics": { title: "Team Performance Analytics", description: "Visualize team performance and identify trends to optimize productivity and collaboration.", features: ["Performance Dashboards", "Productivity Heatmaps", "Collaboration Scores"] },
 
     "default": {
-        title: "Transform Your Operations with Scholar Clone",
-        description: "Scholar Clone offers cutting-edge solutions to modernize your educational or corporate management. Our tools are designed with user experience and efficiency in mind, helping you achieve operational excellence. Whether you are looking to streamline administrative tasks, enhance learning experiences, or optimize workforce management, our platform serves as a unified ecosystem for growth.",
+        title: "Transform Your Operations with GapsToGrowth",
+        description: "GapsToGrowth offers cutting-edge solutions to modernize your educational or corporate management. Our tools are designed with user experience and efficiency in mind, helping you achieve operational excellence. Whether you are looking to streamline administrative tasks, enhance learning experiences, or optimize workforce management, our platform serves as a unified ecosystem for growth.",
         features: [
             "Seamless Integration: connect easily with your existing software ecosystem.",
             "Data-Driven Insights: make informed decisions with powerful analytics.",
@@ -109,7 +109,7 @@ export const SEO_CONTENT = {
         ],
         faq: [
             {
-                question: "Is Scholar Clone cloud-based?",
+                question: "Is GapsToGrowth cloud-based?",
                 answer: "Yes, our entire suite is cloud-native, ensuring high availability, security, and automatic updates without the need for manual maintenance."
             },
             {

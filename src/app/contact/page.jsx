@@ -39,7 +39,7 @@ export default function ContactPage() {
         <main className="min-h-screen bg-white">
             <SchemaComponent data={contactSchema} />
             {/* Hero Section */}
-            <h1 className="sr-only">Contact Scholar Clone</h1>
+            <h1 className="sr-only">Contact GapsToGrowth</h1>
             <ContactHero />
 
             <div className="max-w-4xl mx-auto px-4 py-8 text-center">

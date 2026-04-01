@@ -43,7 +43,7 @@ const SolutionCard1 = () => {
                       boxShadow: '0 16.67px 33.33px rgba(33, 20, 0, 0.8), 0px -8px 10px rgba(33, 20, 0, 0.5) inset', // Adding inset shadow for bottom side
                       fontFamily: 'merriweather',
                     }}
-                    >
+                  >
                     Know More
                   </a>
                 </div>
