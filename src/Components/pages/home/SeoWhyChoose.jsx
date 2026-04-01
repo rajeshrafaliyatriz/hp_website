@@ -7,7 +7,7 @@ function SeoWhyChoose() {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-12">
           <span className="inline-block px-4 py-1 bg-teal-500/20 text-teal-300 text-sm font-semibold rounded-full mb-4">
-            Why Choose ScholarClone HP
+            Why Choose GapsToGrowth HP
           </span>
           <h2 className="text-3xl lg:text-4xl font-bold">
             Trusted by Institutions Across Himachal Pradesh

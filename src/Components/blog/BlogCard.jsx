@@ -60,7 +60,7 @@ export function BlogCard({ image, title, author, date, readTime, href, descripti
             </div>
             <div>
               <p className="text-sm font-bold text-slate-900">
-                {author?.name || "Triz Innovation Team"}
+                {author?.name || "GapsToGrowth Team"}
               </p>
               <p className="text-xs text-slate-500">Expert Contributor</p>
             </div>

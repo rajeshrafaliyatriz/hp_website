@@ -1,5 +1,5 @@
 /**
- * Robots.txt for ScholarClone HP
+ * Robots.txt for GapsToGrowth HP
  * Production-optimized crawl rules
  */
 

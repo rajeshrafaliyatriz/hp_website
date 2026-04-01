@@ -1,5 +1,5 @@
 /**
- * Sitemap for ScholarClone HP
+ * Sitemap for GapsToGrowth HP
  * Production-optimized with correct priority/change frequency
  */
 

@@ -4,28 +4,28 @@ import React, { useState } from "react";
 
 const faqData = [
   {
-    question: "What is ScholarClone HP?",
-    answer: "ScholarClone HP is a comprehensive AI-powered University Management System (ERP) designed for universities, colleges, and K-12 schools. It provides integrated solutions for Talent Management, Learning & Development, Finance & HR, System Integration, and Analytics, specifically tailored for educational institutions in Himachal Pradesh and across India."
+    question: "What is GapsToGrowth HP?",
+    answer: "GapsToGrowth HP is a comprehensive AI-powered University Management System (ERP) designed for universities, colleges, and K-12 schools. It provides integrated solutions for Talent Management, Learning & Development, Finance & HR, System Integration, and Analytics, specifically tailored for educational institutions in Himachal Pradesh and across India."
   },
   {
-    question: "Who uses ScholarClone HP?",
-    answer: "ScholarClone HP serves universities, colleges, K-12 schools, and corporate training departments. Our clients include Higher Education Institutions (HEIs) needing accreditation management, schools requiring student information systems, and corporations seeking workforce development solutions."
+    question: "Who uses GapsToGrowth HP?",
+    answer: "GapsToGrowth HP serves universities, colleges, K-12 schools, and corporate training departments. Our clients include Higher Education Institutions (HEIs) needing accreditation management, schools requiring student information systems, and corporations seeking workforce development solutions."
   },
   {
-    question: "What are the key features of ScholarClone?",
+    question: "What are the key features of GapsToGrowth?",
     answer: "Key features include AI-powered Talent Management, Learning Management System (LMS), Finance & HR automation, System Integration capabilities, Analytics dashboards, Compliance management (NAAC/NIRF), and mobile learning options. The platform supports outcome-based education (OBE) and choice-based credit systems."
   },
   {
-    question: "Is ScholarClone suitable for Himachal Pradesh institutions?",
-    answer: "Yes, ScholarClone HP is specifically designed for institutions in Himachal Pradesh with local support, compliance with regional regulations, and understanding of local educational frameworks. Our solutions are tailored to meet the unique needs of HP-based universities and schools."
+    question: "Is GapsToGrowth suitable for Himachal Pradesh institutions?",
+    answer: "Yes, GapsToGrowth HP is specifically designed for institutions in Himachal Pradesh with local support, compliance with regional regulations, and understanding of local educational frameworks. Our solutions are tailored to meet the unique needs of HP-based universities and schools."
   },
   {
-    question: "How does ScholarClone help with NAAC accreditation?",
-    answer: "ScholarClone includes dedicated modules for NAAC/NIRF accreditation preparation, including data collection, report generation, and compliance tracking. The system maintains all necessary documentation and metrics required for accreditation processes."
+    question: "How does GapsToGrowth help with NAAC accreditation?",
+    answer: "GapsToGrowth includes dedicated modules for NAAC/NIRF accreditation preparation, including data collection, report generation, and compliance tracking. The system maintains all necessary documentation and metrics required for accreditation processes."
   },
   {
-    question: "Can ScholarClone integrate with existing systems?",
-    answer: "Yes, ScholarClone offers robust Integration services including API connections, biometric device integration, payment gateway integration, and compatibility with existing ERPs. Our HRIT Solutions ensure seamless data flow across all institutional systems."
+    question: "Can GapsToGrowth integrate with existing systems?",
+    answer: "Yes, GapsToGrowth offers robust Integration services including API connections, biometric device integration, payment gateway integration, and compatibility with existing ERPs. Our HRIT Solutions ensure seamless data flow across all institutional systems."
   }
 ];
 
@@ -40,7 +40,7 @@ function SeoFaqSection() {
             Frequently Asked Questions
           </span>
           <h2 className="text-3xl lg:text-4xl font-bold text-black">
-            Common Questions About ScholarClone HP
+            Common Questions About GapsToGrowth HP
           </h2>
           <p className="text-lg text-gray-600 mt-4">
             Find answers to the most frequently asked questions about our Education ERP solutions.
@@ -56,6 +56,7 @@ function SeoFaqSection() {
               <button
                 onClick={() => setOpenIndex(openIndex === index ? -1 : index)}
                 className="w-full px-6 py-5 text-left flex justify-between items-center hover:bg-gray-50 transition"
+                suppressHydrationWarning
               >
                 <span className="font-semibold text-lg text-gray-900 pr-4">
                   {faq.question}

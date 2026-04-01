@@ -45,7 +45,7 @@ function BenefitsSection() {
               <div className="shrink-0 my-auto w-24 h-0.5 border-2 border-sky-900 border-solid" />
             </div>
             <div className="self-stretch mt-6 lg:mr-7 lg:text-4xl sm:text-2xl font-bold leading-[42px] text-black lg:max-md:mr-2.5 lg:max-md:max-w-full max-md:text-4xl lg:max-md:leading-[53px]">
-              Why Educational Institutions Choose ScholarClone
+              Why Educational Institutions Choose GapsToGrowth
             </div>
             <div className="mt-8 text-1xl font-medium lg:leading-7 text-black max-md:max-w-full">
               Streamline operations, improve student outcomes, and prepare for accreditation with our proven ERP platform.

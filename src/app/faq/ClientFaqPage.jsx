@@ -18,10 +18,10 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "How does ScholarClone help educational institutions?",
+      name: "How does GapsToGrowth help educational institutions?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "ScholarClone provides a unified ERP platform that integrates Talent Management, Learning & Development, Finance & HR, and Analytics. It helps institutions automate processes, improve efficiency, and make data-driven decisions."
+        text: "GapsToGrowth provides a unified ERP platform that integrates Talent Management, Learning & Development, Finance & HR, and Analytics. It helps institutions automate processes, improve efficiency, and make data-driven decisions."
       }
     },
     {
@@ -42,10 +42,10 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "How does system integration work with ScholarClone?",
+      name: "How does system integration work with GapsToGrowth?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "ScholarClone offers REST and SOAP APIs that connect with existing systems like biometric attendance devices, payment gateways, library management systems, and other ERPs. Integration typically takes 2-6 weeks depending on complexity."
+        text: "GapsToGrowth offers REST and SOAP APIs that connect with existing systems like biometric attendance devices, payment gateways, library management systems, and other ERPs. Integration typically takes 2-6 weeks depending on complexity."
       }
     },
     {
@@ -58,26 +58,26 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "Is ScholarClone suitable for K-12 schools?",
+      name: "Is GapsToGrowth suitable for K-12 schools?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, ScholarClone offers K-12 specific features including student information systems, automated timetable generation, parent-teacher communication, attendance tracking, transport management, and CCE compliance support."
+        text: "Yes, GapsToGrowth offers K-12 specific features including student information systems, automated timetable generation, parent-teacher communication, attendance tracking, transport management, and CCE compliance support."
       }
     },
     {
       "@type": "Question",
-      name: "Does ScholarClone support NAAC accreditation?",
+      name: "Does GapsToGrowth support NAAC accreditation?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, ScholarClone includes dedicated modules for NAAC and NIRF accreditation preparation, including data collection, report generation, and compliance tracking. The system maintains all documentation required for accreditation processes."
+        text: "Yes, GapsToGrowth includes dedicated modules for NAAC and NIRF accreditation preparation, including data collection, report generation, and compliance tracking. The system maintains all documentation required for accreditation processes."
       }
     },
     {
       "@type": "Question",
-      name: "What is the pricing model for ScholarClone?",
+      name: "What is the pricing model for GapsToGrowth?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "ScholarClone offers customized pricing based on institution size, number of users, and selected modules. Contact the sales team for a custom quote tailored to your specific requirements."
+        text: "GapsToGrowth offers customized pricing based on institution size, number of users, and selected modules. Contact the sales team for a custom quote tailored to your specific requirements."
       }
     },
     {
@@ -85,7 +85,7 @@ const faqSchema = {
       name: "Do you offer a free trial?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, ScholarClone offers demonstrations and pilot programs for interested institutions. Contact the sales team to schedule a personalized demo and discuss your institution's needs."
+        text: "Yes, GapsToGrowth offers demonstrations and pilot programs for interested institutions. Contact the sales team to schedule a personalized demo and discuss your institution's needs."
       }
     }
   ]
@@ -97,8 +97,8 @@ const faqData = [
     answer: "An AI-powered University Management System is software that uses artificial intelligence to automate and optimize university operations including admissions, student lifecycle management, faculty scheduling, and accreditation tracking."
   },
   {
-    question: "How does ScholarClone help educational institutions?",
-    answer: "ScholarClone provides a unified ERP platform that integrates Talent Management, Learning & Development, Finance & HR, and Analytics. It helps institutions automate processes, improve efficiency, and make data-driven decisions."
+    question: "How does GapsToGrowth help educational institutions?",
+    answer: "GapsToGrowth provides a unified ERP platform that integrates Talent Management, Learning & Development, Finance & HR, and Analytics. It helps institutions automate processes, improve efficiency, and make data-driven decisions."
   },
   {
     question: "Who should use Talent Solutions?",
@@ -109,28 +109,28 @@ const faqData = [
     answer: "Learning Analytics is the measurement and analysis of learner data, including course completion rates, assessment scores, and knowledge retention. It helps educators identify struggling students and optimize course content for better learning outcomes."
   },
   {
-    question: "How does system integration work with ScholarClone?",
-    answer: "ScholarClone offers REST and SOAP APIs that connect with existing systems like biometric attendance devices, payment gateways, library management systems, and other ERPs. Integration typically takes 2-6 weeks depending on complexity."
+    question: "How does system integration work with GapsToGrowth?",
+    answer: "GapsToGrowth offers REST and SOAP APIs that connect with existing systems like biometric attendance devices, payment gateways, library management systems, and other ERPs. Integration typically takes 2-6 weeks depending on complexity."
   },
   {
     question: "How do Finance and HR modules help institutions?",
     answer: "Finance & HR modules automate payroll processing, leave management, time tracking, and compliance reporting. They reduce manual work, ensure statutory compliance (EPF, ESI, TDS), and provide accurate financial data for decision-making."
   },
   {
-    question: "Is ScholarClone suitable for K-12 schools?",
-    answer: "Yes, ScholarClone offers K-12 specific features including student information systems, automated timetable generation, parent-teacher communication, attendance tracking, transport management, and CCE compliance support."
+    question: "Is GapsToGrowth suitable for K-12 schools?",
+    answer: "Yes, GapsToGrowth offers K-12 specific features including student information systems, automated timetable generation, parent-teacher communication, attendance tracking, transport management, and CCE compliance support."
   },
   {
-    question: "Does ScholarClone support NAAC accreditation?",
-    answer: "Yes, ScholarClone includes dedicated modules for NAAC and NIRF accreditation preparation, including data collection, report generation, and compliance tracking. The system maintains all documentation required for accreditation processes."
+    question: "Does GapsToGrowth support NAAC accreditation?",
+    answer: "Yes, GapsToGrowth includes dedicated modules for NAAC and NIRF accreditation preparation, including data collection, report generation, and compliance tracking. The system maintains all documentation required for accreditation processes."
   },
   {
-    question: "What is the pricing model for ScholarClone?",
-    answer: "ScholarClone offers customized pricing based on institution size, number of users, and selected modules. Contact the sales team for a custom quote tailored to your specific requirements."
+    question: "What is the pricing model for GapsToGrowth?",
+    answer: "GapsToGrowth offers customized pricing based on institution size, number of users, and selected modules. Contact the sales team for a custom quote tailored to your specific requirements."
   },
   {
     question: "Do you offer a free trial?",
-    answer: "Yes, ScholarClone offers demonstrations and pilot programs for interested institutions. Contact the sales team to schedule a personalized demo and discuss your institution's needs."
+    answer: "Yes, GapsToGrowth offers demonstrations and pilot programs for interested institutions. Contact the sales team to schedule a personalized demo and discuss your institution's needs."
   }
 ];
 
@@ -148,7 +148,7 @@ function ClientFaqPage() {
               Frequently Asked Questions
             </h1>
             <p className="text-xl text-sky-200 max-w-2xl mx-auto">
-              Find answers to common questions about ScholarClone HP's Education ERP solutions.
+              Find answers to common questions about GapsToGrowth HP's Education ERP solutions.
             </p>
           </div>
         </section>

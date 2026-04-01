@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export const metadata = {
     title: "Learning Solutions | LMS & Training Platform",
-    description: "ScholarClone's Learning Solutions provides a comprehensive Learning Management System (LMS) for universities, schools, and corporate training. Features include mobile learning, course library, knowledge vault, and SCORM compliance for Himachal Pradesh institutions.",
+    description: "GapsToGrowth's Learning Solutions provides a comprehensive Learning Management System (LMS) for universities, schools, and corporate training. Features include mobile learning, course library, knowledge vault, and SCORM compliance for Himachal Pradesh institutions.",
     keywords: [
         "Learning Management System",
         "LMS Software",
@@ -35,10 +35,10 @@ const faqSchema = {
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "What is ScholarClone Learning Solutions?",
+            "name": "What is GapsToGrowth Learning Solutions?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "ScholarClone Learning Solutions is a comprehensive Learning Management System (LMS) designed for universities, schools, and corporate training departments. It provides tools for course creation, delivery, tracking, and certification."
+                "text": "GapsToGrowth Learning Solutions is a comprehensive Learning Management System (LMS) designed for universities, schools, and corporate training departments. It provides tools for course creation, delivery, tracking, and certification."
             }
         },
         {
@@ -87,11 +87,11 @@ const faqSchema = {
 const productSchema = {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "ScholarClone Learning Solutions",
+    "name": "GapsToGrowth Learning Solutions",
     "description": "Comprehensive Learning Management System (LMS) for universities, schools, and corporate training.",
     "brand": {
         "@type": "Brand",
-        "name": "ScholarClone HP"
+        "name": "GapsToGrowth HP"
     },
     "offers": {
         "@type": "Offer",

@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export const metadata = {
     title: "Analytics Solutions | Data Analytics & Reporting",
-    description: "ScholarClone Analytics Solutions provide data-driven insights for universities, schools, and corporates. Features include Team Analytics, Learning Analytics, custom dashboards, and real-time reporting for better decision-making in Himachal Pradesh.",
+    description: "GapsToGrowth Analytics Solutions provide data-driven insights for universities, schools, and corporates. Features include Team Analytics, Learning Analytics, custom dashboards, and real-time reporting for better decision-making in Himachal Pradesh.",
     keywords: [
         "Analytics Dashboard",
         "Data Analytics",
@@ -87,11 +87,11 @@ const faqSchema = {
 const productSchema = {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "ScholarClone Analytics Solutions",
+    "name": "GapsToGrowth Analytics Solutions",
     "description": "Data analytics and business intelligence platform for education and enterprise.",
     "brand": {
         "@type": "Brand",
-        "name": "ScholarClone HP"
+        "name": "GapsToGrowth HP"
     },
     "offers": {
         "@type": "Offer",

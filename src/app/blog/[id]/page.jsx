@@ -51,7 +51,7 @@ export async function generateMetadata({ params }) {
 
   if (!blog) {
     return {
-      title: "Blog Not Found | Triz Innovation"
+      title: "Blog Not Found | GapsToGrowth"
     };
   }
 
@@ -60,7 +60,7 @@ export async function generateMetadata({ params }) {
     : "Read our latest blog.";
 
   return {
-    title: `${blog.title} | Triz Innovation Blog`,
+    title: `${blog.title} | GapsToGrowth Blog`,
     description: plainTextDescription,
     openGraph: {
       images: blog.image ? [blog.image] : [],
