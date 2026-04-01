@@ -1,7 +1,7 @@
 import { BlogsList } from "@/Components/blog/BlogsList";
 
 export const metadata = {
-    title: "Insights & Blog | Triz Innovation",
+    title: "Insights & Blog | GapsToGrowth",
     description: "Insights, trends, and guides on Talent Management, Learning & Development, and HR Technology.",
 };
 

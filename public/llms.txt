@@ -1,10 +1,10 @@
 # GapsToGrowth HP
 
-ScholarClone HP is an AI-powered Education ERP (Enterprise Resource Planning) platform designed for educational institutions in India, with a focus on Himachal Pradesh.
+GapsToGrowth HP is an AI-powered Education ERP (Enterprise Resource Planning) platform designed for educational institutions in India, with a focus on Himachal Pradesh.
 
 ## Company Overview
 
-- **Name**: ScholarClone HP
+- **Name**: GapsToGrowth HP
 - **Type**: Education Technology Company
 - **Location**: Himachal Pradesh, India
 - **Founded**: 2020
@@ -12,7 +12,7 @@ ScholarClone HP is an AI-powered Education ERP (Enterprise Resource Planning) pl
 
 ## Target Institutions
 
-ScholarClone HP serves three primary segments:
+GapsToGrowth HP serves three primary segments:
 
 1. **Higher Education**: Universities and colleges requiring accreditation support (NAAC, NIRF), student information systems, and faculty management.
 2. **K-12 Schools**: Schools needing student lifecycle management, attendance tracking, parent-teacher communication, and academic reporting.
@@ -77,33 +77,33 @@ ScholarClone HP serves three primary segments:
 
 ## Important URLs
 
-- **Homepage**: https://scholarclone.com/
-- **About**: https://scholarclone.com/about
-- **Contact**: https://scholarclone.com/contact
-- **Services**: https://scholarclone.com/services
-- **FAQ**: https://scholarclone.com/faq
+- **Homepage**: https://gapstogrowth.com/
+- **About**: https://gapstogrowth.com/about
+- **Contact**: https://gapstogrowth.com/contact
+- **Services**: https://gapstogrowth.com/services
+- **FAQ**: https://gapstogrowth.com/faq
 
 ### Product Category Pages
-- Talent Solutions: https://scholarclone.com/products/talent-solutions
-- Learning Solutions: https://scholarclone.com/products/learning-solutions
-- Finance & HR: https://scholarclone.com/products/finance-hr
-- Integration: https://scholarclone.com/products/integration
-- Analytics: https://scholarclone.com/products/analytics-solutions
+- Talent Solutions: https://gapstogrowth.com/products/talent-solutions
+- Learning Solutions: https://gapstogrowth.com/products/learning-solutions
+- Finance & HR: https://gapstogrowth.com/products/finance-hr
+- Integration: https://gapstogrowth.com/products/integration
+- Analytics: https://gapstogrowth.com/products/analytics-solutions
 
 ### Popular Product Sub-Pages
-- Talent Management: https://scholarclone.com/products/talent-solutions/talent-management
-- Smart Hiring Engine: https://scholarclone.com/products/talent-solutions/smart-hiring-engine
-- Learning Management System: https://scholarclone.com/products/learning-solutions/learning-management
-- Payroll Management: https://scholarclone.com/products/finance-hr/payroll-management
-- Team Analytics: https://scholarclone.com/products/analytics-solutions/team-analytics
+- Talent Management: https://gapstogrowth.com/products/talent-solutions/talent-management
+- Smart Hiring Engine: https://gapstogrowth.com/products/talent-solutions/smart-hiring-engine
+- Learning Management System: https://gapstogrowth.com/products/learning-solutions/learning-management
+- Payroll Management: https://gapstogrowth.com/products/finance-hr/payroll-management
+- Team Analytics: https://gapstogrowth.com/products/analytics-solutions/team-analytics
 
 ### Guide Pages
-- Learning Analytics for Student Outcomes: https://scholarclone.com/guides/learning-analytics-student-outcomes
-- Talent Management & Skill Development for Educational Institutions: https://scholarclone.com/guides/talent-management-skill-development-educational-institutions
+- Learning Analytics for Student Outcomes: https://gapstogrowth.com/guides/learning-analytics-student-outcomes
+- Talent Management & Skill Development for Educational Institutions: https://gapstogrowth.com/guides/talent-management-skill-development-educational-institutions
 
 ### Company Pages
-- Careers: https://scholarclone.com/company/careers
-- Partners: https://scholarclone.com/company/partners
+- Careers: https://gapstogrowth.com/company/careers
+- Partners: https://gapstogrowth.com/company/partners
 
 ## Technical Specifications
 

@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export const metadata = {
     title: "Talent Solutions | AI-Powered HR & Recruitment Software",
-    description: "Transform your workforce with ScholarClone's AI-driven Talent Solutions. Features Smart Hiring Engine, Competency Matrix, Skill Management, and Performance Enablement for universities, schools, and corporates in Himachal Pradesh.",
+    description: "Transform your workforce with GapsToGrowth's AI-driven Talent Solutions. Features Smart Hiring Engine, Competency Matrix, Skill Management, and Performance Enablement for universities, schools, and corporates in Himachal Pradesh.",
     keywords: [
         "Talent Management System",
         "AI Recruitment Software",
@@ -35,10 +35,10 @@ const faqSchema = {
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "What is ScholarClone Talent Solutions?",
+            "name": "What is GapsToGrowth Talent Solutions?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "ScholarClone Talent Solutions is a comprehensive suite of tools designed to manage the entire employee lifecycle, from AI-driven recruitment to performance enablement and succession planning. It includes modules for Smart Hiring, Competency Matrix, Skill Management, and Career Pathing."
+                "text": "GapsToGrowth Talent Solutions is a comprehensive suite of tools designed to manage the entire employee lifecycle, from AI-driven recruitment to performance enablement and succession planning. It includes modules for Smart Hiring, Competency Matrix, Skill Management, and Career Pathing."
             }
         },
         {
@@ -78,7 +78,7 @@ const faqSchema = {
             "name": "Is the platform suitable for Himachal Pradesh institutions?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Absolutely. ScholarClone HP is specifically designed for institutions in Himachal Pradesh with support for local compliance requirements, regional regulations, and dedicated local support teams."
+                "text": "Absolutely. GapsToGrowth HP is specifically designed for institutions in Himachal Pradesh with support for local compliance requirements, regional regulations, and dedicated local support teams."
             }
         }
     ]
@@ -87,11 +87,11 @@ const faqSchema = {
 const productSchema = {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "ScholarClone Talent Solutions",
+    "name": "GapsToGrowth Talent Solutions",
     "description": "AI-powered talent management suite for universities, schools, and corporate HR departments.",
     "brand": {
         "@type": "Brand",
-        "name": "ScholarClone HP"
+        "name": "GapsToGrowth HP"
     },
     "offers": {
         "@type": "Offer",

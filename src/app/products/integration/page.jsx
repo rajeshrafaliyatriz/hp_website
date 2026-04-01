@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export const metadata = {
     title: "Integration Solutions | API & System Integration",
-    description: "ScholarClone Integration Solutions provide seamless API connections, HRIT services, and system integration for universities, schools, and corporates. Connect your existing systems with our ERP for unified data flow and operational efficiency.",
+    description: "GapsToGrowth Integration Solutions provide seamless API connections, HRIT services, and system integration for universities, schools, and corporates. Connect your existing systems with our ERP for unified data flow and operational efficiency.",
     keywords: [
         "System Integration",
         "API Integration",
@@ -38,15 +38,15 @@ const faqSchema = {
             "name": "What are Integration Solutions?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Integration Solutions provides seamless connectivity between ScholarClone and your existing systems. This includes APIs, middleware, and custom connectors that enable data flow between different software applications used by your institution."
+                "text": "Integration Solutions provides seamless connectivity between GapsToGrowth and your existing systems. This includes APIs, middleware, and custom connectors that enable data flow between different software applications used by your institution."
             }
         },
         {
             "@type": "Question",
-            "name": "What systems can integrate with ScholarClone?",
+            "name": "What systems can integrate with GapsToGrowth?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "ScholarClone integrates with biometric attendance devices, payment gateways, existing ERPs, student information systems, library management systems, transport management, and more. We support both REST and SOAP APIs."
+                "text": "GapsToGrowth integrates with biometric attendance devices, payment gateways, existing ERPs, student information systems, library management systems, transport management, and more. We support both REST and SOAP APIs."
             }
         },
         {
@@ -87,11 +87,11 @@ const faqSchema = {
 const productSchema = {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "ScholarClone Integration Solutions",
+    "name": "GapsToGrowth Integration Solutions",
     "description": "API and system integration services for education and enterprise software.",
     "brand": {
         "@type": "Brand",
-        "name": "ScholarClone HP"
+        "name": "GapsToGrowth HP"
     },
     "offers": {
         "@type": "Offer",

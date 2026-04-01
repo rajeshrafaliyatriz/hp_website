@@ -30,10 +30,10 @@ export const viewport = {
 export const metadata = {
   metadataBase: new URL(BASE_URL),
   title: {
-    default: "ScholarClone HP | AI-Powered University Management System & Education ERP",
-    template: "%s | ScholarClone HP"
+    default: "GapsToGrowth - We find, fix skill & competency gaps—role by role, task by task",
+    template: "%s | GapsToGrowth"
   },
-  description: "ScholarClone HP is a leading AI-powered University Management System (ERP) and Education ERP for universities, colleges, and K-12 schools in Himachal Pradesh. Comprehensive solutions for Talent Management, Learning & Development, Finance & HR, Integration, and Analytics. Transform your educational institution with intelligent automation.",
+  description: "GapsToGrowth HP is a leading AI-powered University Management System (ERP) and Education ERP for universities, colleges, and K-12 schools in Himachal Pradesh. Comprehensive solutions for Talent Management, Learning & Development, Finance & HR, Integration, and Analytics. Transform your educational institution with intelligent automation.",
   keywords: [
     "University Management System",
     "Education ERP",
@@ -51,7 +51,7 @@ export const metadata = {
     "University ERP Software",
     "School Management Software",
     "Campus Management",
-    "ScholarClone",
+    "GapsToGrowth",
     "Himachal Pradesh",
     "HP",
     "AI in Education",
@@ -60,19 +60,19 @@ export const metadata = {
     "Higher Education ERP",
     "K-12 ERP"
   ],
-  authors: [{ name: 'ScholarClone HP' }],
-  creator: 'ScholarClone HP',
-  publisher: 'ScholarClone HP',
+  authors: [{ name: 'GapsToGrowth HP' }],
+  creator: 'GapsToGrowth HP',
+  publisher: 'GapsToGrowth HP',
   formatDetection: {
     email: false,
     address: false,
     telephone: false,
   },
   openGraph: {
-    title: 'ScholarClone HP | AI-Powered University Management System & Education ERP',
-    description: 'Transform your educational institution with ScholarClone\'s comprehensive AI-powered ERP solutions for universities, colleges, and schools. Talent, Learning, Finance & HR.',
+    title: 'GapsToGrowth HP | AI-Powered University Management System & Education ERP',
+    description: 'Transform your educational institution with GapsToGrowth\'s comprehensive AI-powered ERP solutions for universities, colleges, and schools. Talent, Learning, Finance & HR.',
     url: BASE_URL,
-    siteName: 'ScholarClone HP',
+    siteName: 'GapsToGrowth HP',
     locale: 'en_US',
     type: 'website',
     alternateLocale: 'en_IN',
@@ -81,9 +81,9 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'ScholarClone HP | AI-Powered University Management',
+    title: 'GapsToGrowth HP | AI-Powered University Management',
     description: 'Comprehensive AI-powered ERP solutions for universities, colleges, and schools. Transform education with intelligent automation.',
-    creator: '@scholarclone',
+    creator: '@gapstogrowth',
     images: ['/assets/og-image.png'],
   },
   robots: {
@@ -105,9 +105,9 @@ export const metadata = {
   category: 'technology',
   classification: 'Education Software, ERP, AI Solutions',
   icons: {
-    icon: '/assets/Logo.png',
-    shortcut: '/assets/Logo.png',
-    apple: '/assets/Logo.png',
+    icon: '/assets/Logo.png?v=v3',
+    shortcut: '/assets/Logo.png?v=v3',
+    apple: '/assets/Logo.png?v=v3',
   },
 };
 

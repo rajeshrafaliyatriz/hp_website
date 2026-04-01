@@ -3,8 +3,8 @@
  * Reusable functions for metadata generation
  */
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://scholarclone.com';
-const SITE_NAME = 'ScholarClone HP';
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://gapstogrowth.com';
+const SITE_NAME = 'GapsToGrowth HP';
 
 // ============================================
 // BUSINESS IDENTITY CONFIG
@@ -24,7 +24,7 @@ const SITE_NAME = 'ScholarClone HP';
 export const BUSINESS_CONFIG = {
     // Company details
     name: SITE_NAME,
-    legalName: 'ScholarClone Pvt Ltd', // ⚠️ REQUIRES CONFIRMATION
+    legalName: 'GapsToGrowth Pvt Ltd', // ⚠️ REQUIRES CONFIRMATION
     foundingYear: '2020',
     
     // Address - ⚠️ REQUIRES CONFIRMATION
@@ -46,10 +46,10 @@ export const BUSINESS_CONFIG = {
     
     // Social media - ⚠️ REQUIRES CONFIRMATION
     sameAs: [
-        'https://www.linkedin.com/company/scholar-clone-pvt-ltd/', // ⚠️ REQUIRES CONFIRMATION
-        'https://www.facebook.com/LMS.ScholarClone/', // ⚠️ REQUIRES CONFIRMATION
-        'https://x.com/ScholarClone', // ⚠️ REQUIRES CONFIRMATION
-        'https://www.instagram.com/scholarclone/' // ⚠️ REQUIRES CONFIRMATION
+        'https://www.linkedin.com/company/gapstogrowth-pvt-ltd/', // ⚠️ REQUIRES CONFIRMATION
+        'https://www.facebook.com/LMS.GapsToGrowth/', // ⚠️ REQUIRES CONFIRMATION
+        'https://x.com/GapsToGrowth', // ⚠️ REQUIRES CONFIRMATION
+        'https://www.instagram.com/gapstogrowth/' // ⚠️ REQUIRES CONFIRMATION
     ],
     
     // Service areas
@@ -69,12 +69,14 @@ export function generateMetadata({ title, description, keywords = [], options = 
     const { canonical, images, type = 'website', locale = 'en_US' } = options;
 
     return {
-        title: title ? `${title} | ${SITE_NAME}` : `${SITE_NAME} | AI-Powered University Management System & Education ERP`,
+        title: title
+            ? (title.toLowerCase().includes('gapstogrowth') ? title : `${title} | ${SITE_NAME}`)
+            : `${SITE_NAME} | AI-Powered University Management System & Education ERP`,
         description: description || `${SITE_NAME} - AI-powered education management solutions for universities, colleges, and schools.`,
         keywords: [
             'University Management System',
             'Education ERP',
-            'ScholarClone',
+            'GapsToGrowth',
             'Himachal Pradesh',
             ...keywords
         ],

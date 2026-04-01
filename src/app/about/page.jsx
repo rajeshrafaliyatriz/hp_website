@@ -8,8 +8,8 @@ import Link from "next/link";
 
 export const metadata = {
   title: "About Us | Leading Education ERP Company",
-  description: "Learn about ScholarClone HP, a leading AI-powered Education ERP company serving universities, colleges, and schools in Himachal Pradesh and across India. Discover our mission to transform education through innovative technology.",
-  keywords: ["About ScholarClone", "Education ERP Company", "University Management", "EdTech Company", "Himachal Pradesh", "School ERP India", "AI Education"],
+  description: "Learn about GapsToGrowth HP, a leading AI-powered Education ERP company serving universities, colleges, and schools in Himachal Pradesh and across India. Discover our mission to transform education through innovative technology.",
+  keywords: ["About GapsToGrowth", "Education ERP Company", "University Management", "EdTech Company", "Himachal Pradesh", "School ERP India", "AI Education"],
   alternates: {
     canonical: generateCanonical('/about'),
   },
@@ -24,12 +24,12 @@ export const metadata = {
 const aboutSchema = {
   "@context": "https://schema.org",
   "@type": "AboutPage",
-  "name": "About ScholarClone HP",
-  "description": "ScholarClone HP is a leading AI-powered Education ERP company serving institutions across Himachal Pradesh and India.",
+  "name": "About GapsToGrowth HP",
+  "description": "GapsToGrowth HP is a leading AI-powered Education ERP company serving institutions across Himachal Pradesh and India.",
   "url": generateCanonical('/about'),
   "mainEntity": {
     "@type": "Organization",
-    "name": "ScholarClone HP",
+    "name": "GapsToGrowth HP",
     "url": BASE_URL,
     "areaServed": ["Himachal Pradesh", "India"],
     "serviceType": ["Education ERP", "University Management System", "School ERP", "LMS"]

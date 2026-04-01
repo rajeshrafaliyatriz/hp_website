@@ -8,8 +8,8 @@ import Link from 'next/link';
 
 export const metadata = {
     title: 'Contact Us | Get in Touch',
-    description: 'Contact ScholarClone HP for inquiries about our Education ERP solutions. Serving universities, colleges, and schools across Himachal Pradesh and India. Get a free demo or consultation today.',
-    keywords: ['Contact ScholarClone', 'Education ERP Support', 'University Management', 'Himachal Pradesh', 'Demo Request', 'Sales Inquiry'],
+    description: 'Contact GapsToGrowth HP for inquiries about our Education ERP solutions. Serving universities, colleges, and schools across Himachal Pradesh and India. Get a free demo or consultation today.',
+    keywords: ['Contact GapsToGrowth', 'Education ERP Support', 'University Management', 'Himachal Pradesh', 'Demo Request', 'Sales Inquiry'],
     alternates: {
         canonical: generateCanonical('/contact'),
     },
@@ -24,12 +24,12 @@ export const metadata = {
 const contactSchema = {
     "@context": "https://schema.org",
     "@type": "ContactPage",
-    "name": "Contact ScholarClone HP",
-    "description": "Contact page for ScholarClone HP - AI-powered Education ERP solutions.",
+    "name": "Contact GapsToGrowth HP",
+    "description": "Contact page for GapsToGrowth HP - AI-powered Education ERP solutions.",
     "url": generateCanonical('/contact'),
     "mainEntity": {
         "@type": "Organization",
-        "name": "ScholarClone HP",
+        "name": "GapsToGrowth HP",
         "areaServed": ["Himachal Pradesh", "India"]
     }
 };

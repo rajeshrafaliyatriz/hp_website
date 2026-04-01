@@ -10,7 +10,7 @@ function SeoWhoFor() {
             Target Institutions
           </span>
           <h2 className="text-3xl lg:text-4xl font-bold text-black">
-            Who is ScholarClone HP For?
+            Who is GapsToGrowth HP For?
           </h2>
           <p className="text-lg text-gray-600 mt-4 max-w-3xl mx-auto">
             Our comprehensive Education ERP solution serves institutions of all sizes across 

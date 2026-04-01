@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export const metadata = {
     title: "Finance & HR Solutions | Payroll & HR Software",
-    description: "ScholarClone's Finance & HR Solutions automate payroll, leave management, time & attendance, and compliance for universities, schools, and corporates in Himachal Pradesh. Streamline your financial and HR operations with our comprehensive ERP.",
+    description: "GapsToGrowth's Finance & HR Solutions automate payroll, leave management, time & attendance, and compliance for universities, schools, and corporates in Himachal Pradesh. Streamline your financial and HR operations with our comprehensive ERP.",
     keywords: [
         "Payroll Management Software",
         "HR Software",
@@ -35,7 +35,7 @@ const faqSchema = {
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "What is ScholarClone Finance & HR Solutions?",
+            "name": "What is GapsToGrowth Finance & HR Solutions?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "Finance & HR Solutions is a comprehensive platform that combines financial management and human resource functions. It includes payroll processing, leave management, time tracking, and compliance management in one unified system."
@@ -87,11 +87,11 @@ const faqSchema = {
 const productSchema = {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "ScholarClone Finance & HR Solutions",
+    "name": "GapsToGrowth Finance & HR Solutions",
     "description": "Integrated finance and HR management platform with payroll automation and compliance.",
     "brand": {
         "@type": "Brand",
-        "name": "ScholarClone HP"
+        "name": "GapsToGrowth HP"
     },
     "offers": {
         "@type": "Offer",

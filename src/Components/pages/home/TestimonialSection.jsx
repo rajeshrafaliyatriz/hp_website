@@ -8,7 +8,7 @@ const testimonialData = [
   {
     image: "https://cdn.builder.io/api/v1/image/assets/TEMP/753c4f53ae51af5fa9a317d3add5bf52d13892f22c8001083ea9995856590cf6?placeholderIfAbsent=true&apiKey=170cbe9c02a2485986a6dc949bdc8ad3",
     name: "Meghna Mehta",
-    review: "Scholar Clone transformed how we manage student data. The integration between LMS and HRMS saves hours of manual work every week."
+    review: "GapsToGrowth transformed how we manage student data. The integration between LMS and HRMS saves hours of manual work every week."
   },
   {
     image: "https://cdn.builder.io/api/v1/image/assets/TEMP/753c4f53ae51af5fa9a317d3add5bf52d13892f22c8001083ea9995856590cf6?placeholderIfAbsent=true&apiKey=170cbe9c02a2485986a6dc949bdc8ad3",
