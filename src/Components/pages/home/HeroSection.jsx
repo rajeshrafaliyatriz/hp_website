@@ -12,7 +12,8 @@ function HeroSection() {
           <span className="text-teal-400"><br />Excellence</span>
         </h1>
         <p className="mt-10 text-2xl font-medium leading-10 text-black lg:w-[600px] max-md:max-w-full">
-          AI-powered ERP solutions for universities, colleges, and schools across Himachal Pradesh.
+          Gaps to Growth (G2G) — 
+          Precision Talent Intelligence,Powered by AI, Skill Agents™ & Deep Ontology
         </p>
         <div className="flex flex-wrap lg:gap-5 mt-20 text-xl leading-none max-md:mt-10">
           <Link href="/contact" className="px-8 py-4 bg-sky-600 hover:bg-sky-700 text-white font-semibold rounded-full transition">
